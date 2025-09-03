@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,ProductID,ProductCategory,Price,Quantity,OrderDate,PaymentMethod,ReviewScore,TotalAmount
+CUST4611,58,Female,North Aaron,PROD246,Clothing,175.3,9,2023-04-29,Digital Wallet,4,1577.7
+CUST4108,25,Male,East Jennifer,PROD969,Electronics,285.0,8,2024-09-15,Credit Card,2,2280.0
+CUST1917,19,Male,Jonathanton,PROD722,Home & Garden,164.19,3,2024-08-25,PayPal,3,492.57
+CUST6304,65,Female,New Derekmouth,PROD794,Sports,138.87,6,2023-05-05,Digital Wallet,2,833.22
+CUST5206,35,Female,Thomashaven,PROD900,Sports,17.9,7,2023-05-15,Debit Card,1,125.3
+CUST8612,33,Female,Garymouth,PROD548,Sports,300.57,4,2024-11-14,Digital Wallet,3,1202.28
+CUST8960,32,Male,West Joseph,PROD135,Books,19.51,10,2023-05-14,PayPal,2,195.1
+CUST2359,26,Female,Lake Sierrafort,PROD229,Home & Garden,406.29,5,2025-01-17,PayPal,1,2031.45
+CUST8159,65,Female,New Jonton,PROD168,Clothing,144.06,3,2023-11-09,Debit Card,2,432.18
+CUST5467,24,Female,Mitchellside,PROD341,Clothing,405.28,8,2024-06-26,Credit Card,4,3242.24
+CUST5387,61,Female,Alexshire,PROD897,Home & Garden,238.48,9,2023-09-24,Digital Wallet,2,2146.32
+CUST8655,65,Female,Melissaview,PROD760,Clothing,181.93,9,2023-05-07,Credit Card,4,1637.37
+CUST6731,75,Female,Audreyville,PROD475,Books,294.07,2,2024-06-30,Digital Wallet,2,588.14
+CUST4139,52,Female,Hallstad,PROD470,Sports,120.22,7,2025-03-21,Debit Card,1,841.54
+CUST8763,23,Male,North Kylemouth,PROD492,Clothing,84.01,6,2023-11-02,Credit Card,4,504.06
+CUST9786,55,Female,Grimesport,PROD680,Books,127.69,9,2024-03-03,Digital Wallet,5,1149.21
+CUST7184,45,Male,Porterborough,PROD133,Sports,124.37,1,2024-02-17,Digital Wallet,4,124.37
+CUST2352,20,Male,Vickiefurt,PROD719,Home & Garden,269.18,4,2023-03-04,PayPal,1,1076.72
+CUST6222,19,Female,Cantrellshire,PROD257,Home & Garden,396.66,10,2023-05-11,PayPal,4,3966.6
+CUST3842,23,Male,Port Jessica,PROD795,Books,369.84,3,2024-03-21,Digital Wallet,2,1109.52
+CUST7666,31,Male,Hallfort,PROD560,Books,383.2,9,2025-04-07,PayPal,2,3448.8
+CUST9172,32,Male,New Christiantown,PROD479,Books,474.16,3,2023-06-09,Digital Wallet,5,1422.48
+CUST2629,50,Male,South Sydney,PROD480,Clothing,289.97,8,2023-06-30,Digital Wallet,4,2319.76
+CUST6563,56,Male,New Shawnchester,PROD554,Home & Garden,491.42,3,2024-01-24,PayPal,2,1474.26
+CUST4596,19,Male,South Caitlyn,PROD881,Clothing,197.27,3,2024-10-18,PayPal,4,591.81
+CUST2775,53,Male,Rochaton,PROD178,Clothing,467.93,10,2023-03-18,PayPal,3,4679.3
+CUST2972,30,Male,East Josephhaven,PROD687,Sports,495.81,10,2024-02-05,Credit Card,2,4958.1
+CUST3867,63,Male,East Chelsea,PROD240,Books,90.99,3,2024-07-11,Debit Card,4,272.97
+CUST1457,59,Male,New Amandatown,PROD642,Clothing,122.09,8,2025-03-23,Digital Wallet,2,976.72
+CUST4034,62,Female,New Donton,PROD475,Sports,162.41,6,2023-02-17,Debit Card,3,974.46
+CUST5101,52,Male,North Erica,PROD507,Electronics,370.36,1,2023-04-19,Credit Card,3,370.36
+CUST1554,44,Male,South Jason,PROD421,Sports,182.6,4,2024-09-01,Credit Card,2,730.4
+CUST3800,32,Female,Spencerville,PROD765,Electronics,297.82,8,2023-01-17,Digital Wallet,3,2382.56
+CUST1175,46,Female,South Amanda,PROD385,Electronics,353.21,4,2024-08-23,Digital Wallet,2,1412.84
+CUST2074,55,Female,East Michael,PROD355,Electronics,179.08,2,2024-08-18,Debit Card,1,358.16
+CUST1030,35,Male,Parkermouth,PROD216,Electronics,285.99,5,2025-01-27,Debit Card,5,1429.95
+CUST2881,69,Male,North Malloryville,PROD126,Books,75.34,6,2025-03-22,PayPal,1,452.04
+CUST3271,73,Male,Brownhaven,PROD853,Clothing,474.44,4,2025-03-16,Debit Card,3,1897.76
+CUST3261,18,Female,Anthonyport,PROD290,Clothing,419.16,1,2024-01-15,Debit Card,2,419.16
+CUST4305,66,Male,Brooksside,PROD611,Electronics,406.15,4,2024-03-08,Credit Card,1,1624.6
+CUST2486,69,Male,Tateton,PROD630,Clothing,485.34,9,2023-12-07,Debit Card,4,4368.06
+CUST7741,28,Female,New Reginaton,PROD496,Electronics,273.35,6,2024-11-17,PayPal,4,1640.1
+CUST9921,62,Female,West Tanyaview,PROD675,Clothing,91.9,7,2024-02-05,Debit Card,4,643.3
+CUST8664,45,Female,Nicholasmouth,PROD220,Sports,23.79,8,2023-11-25,Digital Wallet,2,190.32
+CUST3864,39,Male,New Sabrinafort,PROD368,Books,32.8,8,2024-06-05,PayPal,3,262.4
+CUST8454,35,Male,West Lindsay,PROD893,Home & Garden,302.82,1,2023-05-06,Digital Wallet,2,302.82
+CUST9969,27,Male,Port Michael,PROD366,Electronics,14.86,1,2024-01-29,Credit Card,3,14.86
+CUST7748,31,Male,East Craigchester,PROD820,Sports,241.6,6,2024-01-04,PayPal,5,1449.6
+CUST5540,79,Female,Lake Robin,PROD556,Sports,169.21,2,2024-09-29,PayPal,2,338.42
+CUST6474,66,Male,Lake Bryan,PROD319,Books,309.0,9,2024-11-11,Debit Card,5,2781.0
+CUST1450,39,Male,Rollinsstad,PROD726,Books,404.19,5,2024-09-16,PayPal,2,2020.95
+CUST9548,24,Female,Thomasville,PROD392,Electronics,173.68,5,2024-05-24,Credit Card,5,868.4
+CUST5563,23,Female,West Paula,PROD810,Electronics,92.84,10,2024-12-19,Credit Card,5,928.4
+CUST9378,42,Female,Parkerberg,PROD602,Sports,402.2,9,2023-06-08,Credit Card,2,3619.8
+CUST4292,24,Male,Port Rachel,PROD304,Sports,434.77,10,2024-01-29,PayPal,1,4347.7
+CUST6138,40,Female,Janemouth,PROD225,Books,34.48,3,2024-04-12,PayPal,4,103.44
+CUST2753,72,Male,Lauramouth,PROD238,Electronics,78.12,7,2024-10-23,Debit Card,5,546.84
+CUST6509,40,Female,Jasonshire,PROD973,Electronics,353.82,7,2024-11-27,Credit Card,4,2476.74
+CUST3318,56,Female,Cunninghamborough,PROD175,Sports,75.12,6,2023-03-17,Debit Card,2,450.72
+CUST1978,34,Male,Arellanobury,PROD562,Home & Garden,59.91,10,2024-07-05,Credit Card,5,599.1
+CUST5737,69,Female,North Michael,PROD276,Sports,265.52,2,2024-09-13,Debit Card,4,531.04
+CUST5535,20,Female,West Alexander,PROD830,Home & Garden,185.62,9,2023-10-15,Digital Wallet,4,1670.58
+CUST5793,64,Female,East Lynntown,PROD555,Electronics,40.9,5,2023-06-21,Digital Wallet,3,204.5
+CUST9947,47,Male,Port Donna,PROD189,Sports,353.75,7,2023-06-02,Credit Card,1,2476.25
+CUST9269,52,Female,North Michael,PROD929,Books,332.76,4,2023-06-12,Debit Card,4,1331.04
+CUST8657,25,Male,Cindymouth,PROD798,Clothing,295.08,9,2024-07-06,PayPal,2,2655.72
+CUST5623,80,Female,South Daniel,PROD965,Electronics,171.6,7,2023-05-01,PayPal,2,1201.2
+CUST4522,77,Female,Nicolefort,PROD427,Electronics,164.69,6,2023-02-24,PayPal,3,988.14
+CUST7998,42,Female,Nancyhaven,PROD783,Sports,488.05,6,2023-12-25,Debit Card,4,2928.3
+CUST5594,23,Female,Colleenville,PROD455,Clothing,367.51,8,2024-01-28,Digital Wallet,5,2940.08
+CUST2600,53,Female,Port Donald,PROD826,Clothing,221.25,8,2024-11-21,PayPal,2,1770.0
+CUST8794,36,Female,South Jenny,PROD166,Clothing,321.44,10,2024-05-31,Credit Card,5,3214.4
+CUST5299,71,Male,Port Meganchester,PROD663,Sports,246.16,1,2024-08-16,Digital Wallet,2,246.16
+CUST6601,58,Male,Laurenchester,PROD655,Sports,162.06,9,2023-03-19,Credit Card,5,1458.54
+CUST7249,57,Female,Angelamouth,PROD397,Home & Garden,355.06,3,2024-05-01,Debit Card,1,1065.18
+CUST7407,74,Female,Ginashire,PROD407,Home & Garden,283.18,8,2024-11-30,PayPal,4,2265.44
+CUST1586,73,Male,Holmesmouth,PROD971,Home & Garden,445.35,3,2024-09-30,Credit Card,1,1336.05
+CUST6813,41,Female,East Rachelchester,PROD261,Books,308.79,4,2025-01-19,Debit Card,1,1235.16
+CUST4394,54,Female,Pearsonburgh,PROD828,Electronics,181.63,2,2024-01-20,PayPal,4,363.26
+CUST6110,30,Female,Paulamouth,PROD826,Home & Garden,334.44,9,2023-12-30,Debit Card,5,3009.96
+CUST7325,63,Male,Sweeneyview,PROD817,Books,408.15,5,2025-01-02,Credit Card,1,2040.75
+CUST2829,22,Female,East Robert,PROD753,Books,192.3,4,2024-11-26,Digital Wallet,4,769.2
+CUST6589,20,Female,Patriciafurt,PROD278,Sports,368.33,3,2023-10-31,Credit Card,5,1104.99
+CUST9767,60,Male,Lake Rachel,PROD912,Clothing,150.79,3,2025-03-14,Credit Card,4,452.37
+CUST2592,32,Female,West Rodneyhaven,PROD470,Clothing,92.97,3,2024-06-26,Digital Wallet,4,278.91
+CUST3074,67,Male,Kimtown,PROD620,Home & Garden,5.89,6,2025-03-15,Debit Card,1,35.34
+CUST1564,36,Female,Port Stacey,PROD329,Electronics,352.49,10,2024-08-04,Debit Card,4,3524.9
+CUST1229,23,Female,Petersburgh,PROD224,Electronics,288.55,2,2023-05-09,Credit Card,4,577.1
+CUST2531,72,Female,Katrinaburgh,PROD305,Electronics,426.12,4,2023-04-15,Credit Card,2,1704.48
+CUST5630,32,Female,West Dustinchester,PROD911,Books,386.56,7,2025-03-13,Debit Card,1,2705.92
+CUST6941,73,Female,Port Kristinfurt,PROD242,Books,285.9,6,2025-01-31,Digital Wallet,5,1715.4
+CUST9380,24,Male,Lozanohaven,PROD342,Books,95.13,2,2023-06-20,PayPal,1,190.26
+CUST4353,42,Male,Port Keith,PROD909,Sports,162.52,8,2023-08-27,Digital Wallet,4,1300.16
+CUST6175,35,Male,East Randall,PROD605,Books,405.36,8,2023-01-27,Credit Card,2,3242.88
+CUST5026,47,Male,Erinland,PROD126,Electronics,307.63,8,2024-03-04,Debit Card,2,2461.04
+CUST8320,58,Female,East Kevin,PROD469,Electronics,321.63,4,2024-08-23,Digital Wallet,3,1286.52
+CUST4974,71,Female,Butlerport,PROD667,Clothing,56.53,10,2024-08-29,Credit Card,3,565.3
+CUST3950,41,Male,West Michael,PROD686,Electronics,250.61,3,2024-11-17,PayPal,2,751.83
+CUST6580,28,Female,Johnsonmouth,PROD477,Books,168.93,7,2023-03-16,PayPal,1,1182.51
+CUST6957,41,Female,Nguyenside,PROD578,Books,43.51,1,2023-02-10,Digital Wallet,1,43.51
+CUST6956,40,Female,New Rachel,PROD922,Home & Garden,176.67,4,2024-01-27,Credit Card,4,706.68
+CUST9456,31,Male,Davisfurt,PROD664,Sports,163.16,1,2024-01-21,Credit Card,3,163.16
+CUST4524,60,Male,Tiffanyside,PROD232,Electronics,319.91,3,2024-05-18,PayPal,2,959.73
+CUST3646,35,Female,East Jacquelineshire,PROD726,Sports,481.72,10,2024-02-05,Debit Card,4,4817.2
+CUST5795,62,Male,North Susanville,PROD188,Electronics,411.72,10,2024-10-25,Debit Card,5,4117.2
+CUST1210,77,Female,Stephenton,PROD167,Clothing,336.66,3,2024-12-06,Digital Wallet,5,1009.98
+CUST3111,61,Male,Lindaton,PROD416,Clothing,366.0,3,2023-02-01,Digital Wallet,1,1098.0
+CUST8038,59,Female,Josemouth,PROD507,Sports,171.2,9,2024-05-28,PayPal,4,1540.8
+CUST9735,22,Female,West Steven,PROD834,Books,10.64,1,2024-10-12,Credit Card,4,10.64
+CUST8498,56,Female,Jenkinsmouth,PROD836,Home & Garden,108.79,10,2024-03-19,Debit Card,2,1087.9
+CUST9295,58,Female,Gibsonfurt,PROD590,Electronics,348.12,3,2024-11-06,Debit Card,4,1044.36
+CUST5366,28,Female,Hendersonport,PROD638,Electronics,178.49,1,2024-12-17,Debit Card,2,178.49
+CUST7100,52,Female,Josephmouth,PROD520,Home & Garden,394.57,3,2023-05-20,Debit Card,3,1183.71
+CUST8358,64,Female,Alvarezshire,PROD887,Sports,361.6,5,2024-08-02,PayPal,4,1808.0
+CUST7191,33,Female,South Elizabethview,PROD519,Sports,28.83,3,2023-09-06,Debit Card,1,86.49
+CUST9775,28,Female,Kellyton,PROD943,Electronics,221.92,9,2025-01-14,Credit Card,1,1997.28
+CUST5631,47,Female,West Alexburgh,PROD688,Clothing,212.73,7,2023-07-25,Debit Card,4,1489.11
+CUST1003,42,Female,Lake Matthewport,PROD175,Home & Garden,87.34,10,2024-07-24,Digital Wallet,3,873.4
+CUST5281,35,Male,North James,PROD228,Electronics,209.94,10,2025-03-21,Credit Card,5,2099.4
+CUST7617,77,Male,Mindyhaven,PROD424,Clothing,441.48,1,2024-04-22,Debit Card,1,441.48
+CUST7401,58,Male,South Kelly,PROD757,Sports,178.86,5,2024-08-25,PayPal,3,894.3
+CUST7550,62,Female,New Mary,PROD175,Clothing,190.8,2,2024-07-08,PayPal,4,381.6
+CUST9621,53,Male,Normanmouth,PROD560,Books,415.26,4,2025-01-03,Debit Card,3,1661.04
+CUST3236,32,Male,Lake Jody,PROD577,Electronics,395.42,8,2023-06-10,Digital Wallet,5,3163.36
+CUST8215,61,Male,Diazmouth,PROD796,Home & Garden,291.14,10,2025-01-26,PayPal,5,2911.4
+CUST4992,38,Male,New Manuelland,PROD629,Clothing,380.33,8,2025-01-16,Credit Card,5,3042.64
+CUST9842,71,Female,Annahaven,PROD452,Sports,116.66,8,2023-12-14,Digital Wallet,2,933.28
+CUST9464,67,Female,New Carolynborough,PROD231,Clothing,228.39,3,2023-07-11,PayPal,1,685.17
+CUST1163,67,Female,Elizabethhaven,PROD999,Sports,400.6,4,2023-05-07,Digital Wallet,5,1602.4
+CUST7349,21,Male,Jasonmouth,PROD948,Books,21.54,7,2024-03-24,PayPal,3,150.78
+CUST7230,32,Male,Stewarthaven,PROD898,Sports,14.94,10,2024-09-26,PayPal,1,149.4
+CUST5012,70,Female,Gabrielberg,PROD664,Home & Garden,134.26,3,2023-11-30,Digital Wallet,5,402.78
+CUST9192,20,Male,North James,PROD755,Books,56.84,10,2024-08-14,Debit Card,3,568.4
+CUST5331,69,Female,Marquezview,PROD701,Clothing,174.2,3,2024-03-10,Debit Card,1,522.6
+CUST4423,38,Male,North Moniqueside,PROD286,Electronics,444.53,10,2024-01-16,Digital Wallet,1,4445.3
+CUST3082,43,Female,New Donnafort,PROD886,Sports,84.65,9,2023-11-21,PayPal,4,761.85
+CUST3611,35,Male,Smithmouth,PROD232,Home & Garden,42.13,5,2025-01-21,PayPal,3,210.65
+CUST2398,22,Male,Emilyhaven,PROD543,Electronics,471.21,3,2025-01-23,PayPal,4,1413.63
+CUST7428,31,Female,Shannonland,PROD614,Electronics,489.13,6,2023-07-14,PayPal,5,2934.78
+CUST6171,76,Male,Lake Tony,PROD989,Books,172.29,8,2024-02-24,PayPal,1,1378.32
+CUST6771,78,Male,North Prestonhaven,PROD156,Clothing,492.71,10,2025-01-06,Debit Card,3,4927.1
+CUST7600,54,Female,North Jacob,PROD951,Electronics,447.15,10,2023-06-13,PayPal,3,4471.5
+CUST6777,74,Male,Garyberg,PROD227,Home & Garden,353.73,2,2023-07-23,Digital Wallet,2,707.46
+CUST8940,63,Female,Scottview,PROD630,Sports,218.51,4,2025-04-03,PayPal,5,874.04
+CUST4577,38,Male,New Heather,PROD256,Sports,328.55,7,2024-12-17,PayPal,1,2299.85
+CUST6461,31,Male,Lake Catherinechester,PROD411,Sports,305.62,7,2024-04-29,Debit Card,5,2139.34
+CUST9342,59,Female,Lake Travis,PROD268,Books,219.93,3,2024-07-15,Credit Card,2,659.79
+CUST7987,49,Female,New Robert,PROD265,Home & Garden,31.51,2,2024-05-03,Credit Card,2,63.02
+CUST4181,43,Female,Kirkberg,PROD430,Electronics,168.89,1,2024-11-10,PayPal,3,168.89
+CUST4345,74,Female,West Jessica,PROD826,Home & Garden,487.33,4,2024-05-17,Debit Card,2,1949.32
+CUST5772,76,Female,South James,PROD330,Books,207.59,9,2024-02-18,PayPal,5,1868.31
+CUST8920,59,Male,North Shawn,PROD454,Books,279.29,9,2025-04-14,Credit Card,1,2513.61
+CUST2086,47,Male,Port Jason,PROD631,Clothing,463.16,7,2024-05-08,Debit Card,4,3242.12
+CUST3723,27,Female,Stephanieburgh,PROD390,Home & Garden,272.36,3,2024-09-12,Digital Wallet,5,817.08
+CUST8007,34,Female,North William,PROD966,Sports,332.0,10,2023-07-09,Digital Wallet,2,3320.0
+CUST9913,26,Male,New Nataliebury,PROD180,Books,152.21,2,2023-08-03,Debit Card,2,304.42
+CUST3711,33,Male,Alvarezborough,PROD356,Books,52.48,3,2023-06-04,Digital Wallet,3,157.44
+CUST3483,65,Female,Martinfort,PROD301,Clothing,199.49,8,2023-12-08,Debit Card,3,1595.92
+CUST4131,53,Female,Port Joel,PROD750,Sports,277.08,10,2024-12-10,PayPal,3,2770.8
+CUST3450,52,Male,Charlesbury,PROD664,Books,248.02,10,2024-01-11,PayPal,5,2480.2
+CUST8918,34,Male,New Susan,PROD381,Electronics,31.98,1,2024-08-29,Credit Card,4,31.98
+CUST4258,65,Male,Pamelamouth,PROD228,Sports,6.89,9,2025-03-06,PayPal,3,62.01
+CUST5983,55,Male,West Brendamouth,PROD740,Home & Garden,48.38,9,2024-07-10,PayPal,1,435.42
+CUST5828,45,Female,Ronaldton,PROD410,Clothing,412.83,2,2023-04-25,Credit Card,1,825.66
+CUST3453,75,Male,Garnershire,PROD729,Electronics,314.42,2,2024-07-25,Debit Card,3,628.84
+CUST3602,55,Male,Mccoystad,PROD646,Electronics,242.76,8,2025-03-06,PayPal,3,1942.08
+CUST2253,43,Male,West Alex,PROD195,Home & Garden,53.01,3,2023-11-11,PayPal,4,159.03
+CUST4533,41,Female,Patrickfort,PROD614,Clothing,107.44,10,2023-12-01,PayPal,4,1074.4
+CUST7348,32,Male,Brandonfurt,PROD756,Books,320.9,9,2024-08-14,Credit Card,5,2888.1
+CUST7533,26,Female,Huffmanmouth,PROD272,Clothing,488.64,1,2024-04-26,Debit Card,5,488.64
+CUST9444,50,Female,Robertsonhaven,PROD706,Books,239.42,7,2025-01-15,Credit Card,1,1675.94
+CUST3649,49,Female,West Chad,PROD694,Home & Garden,62.18,9,2023-07-16,Digital Wallet,4,559.62
+CUST6321,23,Female,North James,PROD257,Home & Garden,393.51,7,2024-02-09,PayPal,5,2754.57
+CUST2515,66,Female,North Alyssa,PROD275,Electronics,238.12,6,2024-11-13,Digital Wallet,5,1428.72
+CUST4993,21,Female,South Ashleyland,PROD774,Electronics,447.96,1,2024-06-04,Debit Card,3,447.96
+CUST4120,73,Male,New Ronaldport,PROD739,Electronics,136.18,9,2024-09-01,PayPal,4,1225.62
+CUST8289,25,Male,East Ryan,PROD837,Home & Garden,322.72,7,2023-05-04,Digital Wallet,5,2259.04
+CUST4821,27,Male,New Andrea,PROD719,Books,196.83,4,2024-02-17,Digital Wallet,3,787.32
+CUST9420,58,Male,Christopherport,PROD445,Home & Garden,188.66,8,2024-07-22,Digital Wallet,1,1509.28
+CUST1866,28,Female,Port Robert,PROD962,Home & Garden,193.82,7,2024-05-16,PayPal,2,1356.74
+CUST2077,68,Male,East Heidi,PROD677,Electronics,97.36,6,2024-05-16,PayPal,4,584.16
+CUST4227,61,Male,New Manuelchester,PROD142,Clothing,27.09,10,2024-10-11,PayPal,1,270.9
+CUST9244,45,Male,Port Angel,PROD945,Electronics,222.67,10,2024-05-28,PayPal,1,2226.7
+CUST7162,56,Male,Reyesfurt,PROD984,Clothing,135.38,2,2023-06-30,Credit Card,4,270.76
+CUST5599,22,Male,Kennethview,PROD129,Books,419.35,7,2025-02-25,Digital Wallet,2,2935.45
+CUST9131,42,Male,Alexanderborough,PROD183,Books,284.3,3,2023-02-24,Credit Card,3,852.9
+CUST4719,42,Male,Merrittville,PROD146,Sports,79.81,5,2023-07-18,Debit Card,1,399.05
+CUST1246,56,Female,New Brittanyside,PROD756,Sports,349.75,8,2023-04-08,Digital Wallet,1,2798.0
+CUST5270,47,Female,Lake Kristinbury,PROD889,Sports,52.87,4,2025-02-06,PayPal,2,211.48
+CUST9017,51,Female,Wallaceborough,PROD690,Books,335.73,2,2025-03-27,PayPal,3,671.46
+CUST6129,34,Female,New Pamela,PROD371,Electronics,405.05,5,2023-11-21,PayPal,1,2025.25
+CUST3892,80,Male,Michaelville,PROD766,Electronics,209.92,10,2023-12-28,Credit Card,2,2099.2
+CUST5805,53,Male,Debraton,PROD315,Electronics,379.45,9,2023-03-04,PayPal,4,3415.05
+CUST6273,73,Female,West Jeffrey,PROD885,Home & Garden,117.62,7,2024-11-22,Digital Wallet,2,823.34
+CUST2509,78,Female,East Angela,PROD685,Sports,35.19,5,2024-03-25,Digital Wallet,2,175.95
+CUST4756,18,Female,Latoyaport,PROD526,Electronics,196.62,4,2024-09-06,Debit Card,5,786.48
+CUST6499,61,Male,West Kevin,PROD732,Sports,263.68,1,2024-05-25,Digital Wallet,1,263.68
+CUST1575,64,Male,Bullockmouth,PROD754,Sports,482.99,1,2024-08-04,PayPal,3,482.99
+CUST8936,25,Female,Ortizmouth,PROD131,Home & Garden,345.1,10,2023-05-08,Digital Wallet,4,3451.0
+CUST9492,61,Male,Traceyfort,PROD609,Books,468.5,9,2024-01-06,Digital Wallet,5,4216.5
+CUST2824,74,Female,Chandlerfort,PROD742,Electronics,288.49,2,2023-07-04,Credit Card,2,576.98
+CUST4669,52,Male,Andreabury,PROD658,Home & Garden,121.64,9,2024-09-24,Digital Wallet,4,1094.76
+CUST9120,66,Male,Melissafort,PROD396,Books,152.93,1,2025-02-14,Debit Card,3,152.93
+CUST4155,35,Male,Lake Anthonyfurt,PROD757,Books,200.43,7,2023-11-26,Digital Wallet,4,1403.01
+CUST7977,67,Female,North Jean,PROD409,Electronics,427.7,4,2023-06-07,Credit Card,4,1710.8
+CUST5018,59,Male,Johnsonfurt,PROD594,Sports,22.19,6,2023-07-16,Credit Card,1,133.14
+CUST7756,39,Male,Cynthiaville,PROD350,Clothing,287.75,7,2024-08-14,Digital Wallet,3,2014.25
+CUST2605,25,Male,Lesterport,PROD924,Sports,260.82,6,2024-02-10,Digital Wallet,2,1564.92
+CUST5525,36,Male,West Nicholas,PROD926,Sports,287.89,2,2023-06-23,Credit Card,1,575.78
+CUST4686,45,Female,Lopezstad,PROD801,Clothing,491.46,3,2024-11-19,PayPal,1,1474.38
+CUST5813,28,Female,South Andrea,PROD515,Books,77.99,7,2023-10-02,Digital Wallet,2,545.93
+CUST5515,47,Female,Jessefort,PROD404,Clothing,474.88,10,2023-04-09,Credit Card,5,4748.8
+CUST5873,18,Male,West Charlesland,PROD564,Clothing,227.27,5,2023-09-08,Digital Wallet,3,1136.35
+CUST6248,79,Female,Danielland,PROD174,Home & Garden,474.79,5,2023-06-04,Credit Card,4,2373.95
+CUST3167,64,Female,Monicahaven,PROD805,Home & Garden,87.75,9,2025-02-14,PayPal,5,789.75
+CUST1707,74,Female,Phelpsport,PROD161,Home & Garden,109.89,7,2023-05-24,Debit Card,3,769.23
+CUST3188,64,Female,Vargasland,PROD261,Books,100.4,10,2024-10-14,Digital Wallet,3,1004.0
+CUST2684,34,Female,South Ryan,PROD550,Clothing,26.12,6,2025-01-25,Digital Wallet,4,156.72
+CUST4425,80,Female,North Allenland,PROD525,Electronics,43.79,10,2023-06-27,Debit Card,5,437.9
+CUST2604,50,Male,New Rebeccaside,PROD595,Clothing,343.15,5,2023-05-31,Debit Card,5,1715.75
+CUST6244,66,Male,Gonzalezmouth,PROD575,Books,104.95,7,2024-11-02,Digital Wallet,5,734.65
+CUST6551,29,Female,Gabrielleburgh,PROD308,Home & Garden,412.17,4,2024-10-01,PayPal,4,1648.68
+CUST9257,50,Female,Littleside,PROD448,Books,78.2,7,2023-07-30,Digital Wallet,4,547.4
+CUST6560,76,Female,Lake Emily,PROD721,Home & Garden,299.55,9,2024-04-07,Debit Card,3,2695.95
+CUST5141,24,Male,New Christopher,PROD247,Books,163.28,9,2024-12-03,Credit Card,5,1469.52
+CUST9337,73,Male,Rogershaven,PROD420,Electronics,364.92,8,2025-02-08,PayPal,2,2919.36
+CUST4479,58,Male,Lake Monica,PROD982,Home & Garden,404.64,3,2024-12-05,Digital Wallet,3,1213.92
+CUST6266,37,Male,New Michael,PROD835,Home & Garden,48.08,6,2023-09-29,Digital Wallet,2,288.48
+CUST3105,71,Female,Port Derek,PROD426,Clothing,280.4,9,2024-05-22,Credit Card,3,2523.6
+CUST6215,58,Male,New Ericstad,PROD851,Books,278.27,9,2025-02-21,Credit Card,2,2504.43
+CUST2362,50,Male,Lake Gregory,PROD981,Sports,429.03,8,2024-06-29,PayPal,4,3432.24
+CUST7014,56,Female,Stephanieberg,PROD453,Sports,262.25,5,2023-03-24,PayPal,3,1311.25
+CUST7791,30,Female,Paulmouth,PROD508,Clothing,459.0,5,2024-01-12,Digital Wallet,3,2295.0
+CUST7363,27,Female,Bethanyhaven,PROD233,Books,11.12,10,2023-06-28,Digital Wallet,1,111.2
+CUST7777,41,Male,Waltonhaven,PROD878,Electronics,351.7,6,2024-06-12,Debit Card,2,2110.2
+CUST6937,66,Female,Lake Marissa,PROD479,Clothing,295.85,7,2024-10-04,Digital Wallet,3,2070.95
+CUST1583,28,Female,Williamsstad,PROD627,Home & Garden,391.93,3,2024-06-21,Credit Card,3,1175.79
+CUST6658,52,Male,Kellyshire,PROD675,Electronics,60.7,2,2025-01-21,PayPal,4,121.4
+CUST3301,79,Female,North Laurenmouth,PROD208,Books,79.07,4,2023-05-02,Digital Wallet,2,316.28
+CUST7643,67,Female,Coxhaven,PROD426,Home & Garden,285.46,8,2023-07-21,PayPal,5,2283.68
+CUST8005,77,Female,East Charlesview,PROD347,Sports,293.43,3,2025-01-01,Digital Wallet,2,880.29
+CUST7816,51,Female,New Lisa,PROD577,Books,482.59,2,2025-03-19,Credit Card,5,965.18
+CUST4440,76,Female,North Wendy,PROD225,Home & Garden,54.6,4,2023-02-26,Debit Card,3,218.4
+CUST6657,18,Male,Andrewside,PROD373,Books,57.29,9,2024-11-17,Debit Card,2,515.61
+CUST1793,56,Male,Reedland,PROD560,Home & Garden,390.87,7,2023-05-29,PayPal,2,2736.09
+CUST6120,38,Female,East Crystalland,PROD353,Books,393.94,6,2023-09-30,Credit Card,2,2363.64
+CUST5286,49,Female,Port Peter,PROD244,Sports,434.4,9,2023-02-27,Credit Card,2,3909.6
+CUST9389,19,Female,Michaelland,PROD199,Clothing,440.67,10,2024-10-08,Credit Card,2,4406.7
+CUST8617,25,Female,Rhodesville,PROD151,Home & Garden,439.56,1,2024-03-09,Digital Wallet,1,439.56
+CUST7403,77,Female,Port Mary,PROD397,Home & Garden,135.75,3,2024-03-11,Debit Card,1,407.25
+CUST9272,41,Male,Christinabury,PROD493,Sports,329.12,7,2023-12-08,Credit Card,3,2303.84
+CUST5088,74,Female,Carlosberg,PROD984,Clothing,288.15,1,2024-06-29,Digital Wallet,5,288.15
+CUST5524,71,Male,South Donna,PROD730,Books,239.16,2,2023-12-28,PayPal,2,478.32
+CUST2455,69,Female,Thomasstad,PROD528,Home & Garden,90.24,3,2023-10-25,Digital Wallet,4,270.72
+CUST9893,37,Female,Lauraborough,PROD354,Clothing,204.47,8,2024-04-24,Digital Wallet,3,1635.76
+CUST7481,33,Female,South Virginia,PROD986,Books,311.03,10,2025-03-19,Credit Card,3,3110.3
+CUST5340,21,Male,South Kathyside,PROD263,Home & Garden,342.0,7,2023-08-07,PayPal,2,2394.0
+CUST9498,33,Female,New Toddfurt,PROD933,Home & Garden,203.85,2,2023-06-16,Debit Card,2,407.7
+CUST3116,74,Male,West Eric,PROD435,Books,200.92,2,2024-09-21,PayPal,5,401.84
+CUST4901,54,Female,Port David,PROD691,Sports,440.08,5,2024-01-30,PayPal,1,2200.4
+CUST5138,78,Female,Hernandezton,PROD838,Clothing,346.8,4,2023-07-10,PayPal,3,1387.2
+CUST6910,23,Male,West Nicoleborough,PROD420,Home & Garden,29.4,6,2024-09-29,PayPal,3,176.4
+CUST1013,23,Male,Forbesville,PROD294,Books,240.23,2,2024-07-18,Credit Card,2,480.46
+CUST6822,64,Female,Olsenport,PROD881,Home & Garden,137.95,10,2024-09-07,Digital Wallet,3,1379.5
+CUST4986,49,Female,Lake Janice,PROD263,Books,189.36,1,2024-12-04,Debit Card,4,189.36
+CUST8191,70,Female,Baxterbury,PROD610,Home & Garden,172.24,7,2024-10-08,Debit Card,5,1205.68
+CUST9754,22,Male,Colemouth,PROD627,Electronics,397.86,7,2023-04-26,Digital Wallet,2,2785.02
+CUST3125,80,Male,East Briana,PROD578,Sports,158.92,10,2023-05-01,Debit Card,5,1589.2
+CUST1451,66,Female,Nunezview,PROD610,Clothing,422.21,9,2024-03-09,PayPal,3,3799.89
+CUST8298,52,Male,North Katieview,PROD415,Sports,429.83,5,2023-08-04,Credit Card,1,2149.15
+CUST1058,67,Female,East Tracymouth,PROD609,Sports,344.0,10,2024-11-06,PayPal,1,3440.0
+CUST5995,26,Female,West Audrey,PROD123,Clothing,486.39,1,2023-12-04,PayPal,4,486.39
+CUST3031,26,Female,Port Angelaport,PROD192,Sports,117.84,3,2024-04-29,Credit Card,4,353.52
+CUST4976,60,Male,Jennifermouth,PROD502,Electronics,153.74,8,2023-03-20,Debit Card,2,1229.92
+CUST1771,48,Male,Delacruzville,PROD617,Books,373.14,8,2024-10-16,Credit Card,4,2985.12
+CUST9093,78,Male,South Peterburgh,PROD568,Clothing,388.15,1,2023-08-10,Digital Wallet,3,388.15
+CUST5155,53,Male,East Jenniferchester,PROD346,Books,163.83,4,2024-02-13,Digital Wallet,2,655.32
+CUST8950,28,Female,West Elizabethmouth,PROD320,Home & Garden,365.76,9,2023-06-01,Digital Wallet,1,3291.84
+CUST6778,34,Male,West Stacystad,PROD697,Electronics,304.46,5,2024-07-25,Credit Card,5,1522.3
+CUST7844,51,Female,East Matthew,PROD461,Books,49.2,4,2024-02-10,Digital Wallet,5,196.8
+CUST4537,73,Male,North Michaelside,PROD149,Books,223.65,1,2023-04-16,PayPal,3,223.65
+CUST2830,56,Male,Shannonport,PROD151,Clothing,457.15,10,2023-03-09,PayPal,3,4571.5
+CUST4688,45,Male,West Amanda,PROD388,Home & Garden,206.55,9,2024-11-13,Digital Wallet,4,1858.95
+CUST8896,79,Female,New Mark,PROD606,Clothing,244.81,9,2023-10-02,Digital Wallet,3,2203.29
+CUST1776,31,Male,Beckerstad,PROD711,Home & Garden,260.67,4,2024-07-04,Digital Wallet,5,1042.68
+CUST4472,77,Male,North Heather,PROD963,Clothing,190.09,10,2023-11-12,Digital Wallet,2,1900.9
+CUST9317,52,Female,Laurenfort,PROD769,Books,32.82,3,2023-02-11,Credit Card,5,98.46
+CUST8982,66,Female,North Shawnfurt,PROD788,Books,396.79,1,2025-02-22,Credit Card,4,396.79
+CUST1916,64,Female,Briannafort,PROD581,Electronics,37.48,6,2023-06-19,PayPal,3,224.88
+CUST2261,62,Female,Anthonyborough,PROD392,Books,356.24,4,2024-07-16,Debit Card,1,1424.96
+CUST6440,30,Female,North Sean,PROD649,Sports,204.68,1,2025-03-06,PayPal,4,204.68
+CUST2945,63,Female,Calvinmouth,PROD108,Books,391.36,3,2023-10-08,Credit Card,1,1174.08
+CUST4795,37,Male,Port Alexanderhaven,PROD967,Sports,264.52,2,2023-04-11,PayPal,2,529.04
+CUST7159,43,Female,Sandovalton,PROD210,Books,286.49,5,2024-12-07,PayPal,5,1432.45
+CUST6452,60,Male,Scottstad,PROD541,Sports,91.0,7,2024-02-01,Credit Card,1,637.0
+CUST5134,59,Female,Jessicachester,PROD237,Sports,438.21,6,2023-07-14,Debit Card,3,2629.26
+CUST7598,41,Male,Port Kylie,PROD370,Books,104.36,7,2024-12-04,Credit Card,1,730.52
+CUST6652,46,Male,Port Nicholasmouth,PROD844,Sports,33.53,7,2025-02-08,PayPal,4,234.71
+CUST4489,75,Male,Lake Christian,PROD474,Electronics,21.37,10,2024-01-07,Credit Card,5,213.7
+CUST8027,51,Female,Johnland,PROD882,Home & Garden,30.03,4,2024-12-06,Debit Card,2,120.12
+CUST5571,46,Female,Hughesburgh,PROD512,Sports,183.39,9,2024-08-13,Debit Card,4,1650.51
+CUST1926,25,Female,West Rebecca,PROD474,Sports,103.56,1,2023-05-19,Credit Card,3,103.56
+CUST3095,33,Female,North Kevinside,PROD146,Electronics,187.33,2,2023-09-19,Credit Card,1,374.66
+CUST7375,32,Male,Reynoldsmouth,PROD510,Electronics,234.79,2,2024-12-10,Credit Card,3,469.58
+CUST4573,22,Female,Sanchezhaven,PROD152,Clothing,201.49,9,2024-05-30,Digital Wallet,1,1813.41
+CUST3550,39,Female,Port Victoriafurt,PROD683,Home & Garden,461.92,5,2025-03-07,PayPal,5,2309.6
+CUST4450,19,Female,East Nicoletown,PROD675,Clothing,342.18,9,2024-11-02,PayPal,2,3079.62
+CUST5091,55,Male,Gilbertshire,PROD299,Sports,124.76,10,2023-07-15,Debit Card,5,1247.6
+CUST6546,53,Female,Silvaborough,PROD471,Electronics,246.95,6,2023-03-08,PayPal,5,1481.7
+CUST3798,32,Female,South Leslie,PROD666,Sports,225.82,6,2024-05-16,Digital Wallet,2,1354.92
+CUST1944,55,Female,Katherineton,PROD395,Books,480.46,5,2023-03-02,Debit Card,3,2402.3
+CUST5732,32,Female,Sosaburgh,PROD175,Home & Garden,239.92,4,2025-01-07,Credit Card,2,959.68
+CUST3886,18,Female,Port Julie,PROD495,Books,277.91,10,2023-11-12,Credit Card,1,2779.1
+CUST2759,22,Female,South Georgeville,PROD616,Electronics,175.4,4,2025-01-12,Debit Card,1,701.6
+CUST3369,63,Female,Sanchezport,PROD561,Electronics,419.64,8,2024-05-29,Debit Card,5,3357.12
+CUST7719,58,Male,Spencerton,PROD882,Electronics,133.04,7,2023-09-27,Debit Card,4,931.28
+CUST6236,21,Male,Amandaland,PROD663,Home & Garden,416.28,10,2025-01-30,Digital Wallet,1,4162.8
+CUST3857,32,Female,Michaelbury,PROD386,Clothing,49.74,1,2024-06-13,Credit Card,5,49.74
+CUST9609,22,Male,South Ericfurt,PROD945,Sports,18.59,5,2024-07-28,Digital Wallet,4,92.95
+CUST4574,75,Female,Port Matthewville,PROD738,Sports,29.58,3,2025-01-05,Credit Card,2,88.74
+CUST7694,20,Male,East Steven,PROD796,Sports,427.64,7,2025-04-19,Debit Card,4,2993.48
+CUST1321,73,Female,New Levi,PROD725,Sports,391.02,9,2023-12-07,Digital Wallet,3,3519.18
+CUST8879,39,Female,West Chrisfort,PROD221,Sports,111.09,2,2023-12-29,PayPal,5,222.18
+CUST6803,22,Female,West Michaelland,PROD231,Clothing,114.57,9,2025-04-19,Credit Card,5,1031.13
+CUST5450,50,Female,North Stacey,PROD199,Books,116.43,2,2023-07-18,Debit Card,5,232.86
+CUST5408,33,Male,Jonesstad,PROD503,Home & Garden,107.33,9,2023-06-17,Debit Card,1,965.97
+CUST7978,35,Female,Johnsonland,PROD482,Books,327.54,5,2024-06-19,Digital Wallet,3,1637.7
+CUST6504,60,Male,Rodriguezville,PROD913,Books,259.07,6,2023-06-04,PayPal,4,1554.42
+CUST3732,49,Male,Lake Jasminemouth,PROD447,Sports,432.99,2,2024-04-28,PayPal,2,865.98
+CUST4046,31,Female,North Jefferyton,PROD671,Sports,483.73,9,2023-03-07,Credit Card,4,4353.57
+CUST7966,52,Male,Gateshaven,PROD474,Clothing,342.69,5,2024-08-05,Credit Card,3,1713.45
+CUST2099,26,Female,Port Michelle,PROD873,Home & Garden,239.68,9,2023-11-06,Credit Card,4,2157.12
+CUST5696,64,Male,Lake David,PROD247,Electronics,70.5,10,2024-01-19,Digital Wallet,3,705.0
+CUST7376,77,Female,West Carolinefort,PROD303,Books,90.73,5,2024-12-05,Debit Card,1,453.65
+CUST4620,74,Male,South Lisashire,PROD716,Electronics,401.43,8,2025-02-17,Digital Wallet,3,3211.44
+CUST8283,54,Male,New Michael,PROD621,Home & Garden,115.77,7,2023-02-24,Debit Card,3,810.39
+CUST9566,54,Female,Coxbury,PROD511,Books,306.13,10,2024-11-03,Debit Card,3,3061.3
+CUST1679,48,Male,South Brittany,PROD612,Electronics,471.79,8,2023-11-29,Debit Card,3,3774.32
+CUST9472,33,Male,Lake Walter,PROD141,Electronics,357.81,4,2023-05-16,PayPal,4,1431.24
+CUST1044,68,Female,Smithside,PROD146,Clothing,356.14,6,2024-01-11,Digital Wallet,5,2136.84
+CUST8046,48,Female,Port Ashley,PROD139,Home & Garden,141.31,8,2023-12-01,Digital Wallet,1,1130.48
+CUST1109,69,Female,West Melissa,PROD240,Home & Garden,448.26,8,2025-04-04,Digital Wallet,2,3586.08
+CUST8512,44,Female,East Ronaldton,PROD830,Home & Garden,426.54,10,2025-01-19,PayPal,4,4265.4
+CUST8702,30,Male,West Michaelchester,PROD441,Books,232.2,1,2025-02-05,PayPal,4,232.2
+CUST1652,24,Female,Meganhaven,PROD923,Clothing,113.01,8,2023-06-27,Debit Card,4,904.08
+CUST9510,24,Female,Lake Beverlymouth,PROD585,Sports,154.56,2,2023-10-10,PayPal,3,309.12
+CUST1581,60,Female,Duanemouth,PROD631,Books,262.72,5,2024-10-10,Credit Card,2,1313.6
+CUST7441,45,Female,South Erikaberg,PROD567,Home & Garden,313.69,2,2025-01-11,Credit Card,4,627.38
+CUST8049,40,Male,North Cory,PROD252,Books,294.32,7,2023-03-27,Credit Card,4,2060.24
+CUST2272,45,Male,Kristinbury,PROD720,Electronics,8.64,4,2023-12-16,Digital Wallet,2,34.56
+CUST3537,44,Male,South Felicia,PROD627,Books,499.72,4,2024-06-15,Credit Card,5,1998.88
+CUST7072,47,Female,Goodmanville,PROD243,Books,483.41,6,2023-09-24,PayPal,5,2900.46
+CUST3052,73,Male,Williamsport,PROD435,Home & Garden,420.49,7,2023-08-02,Digital Wallet,1,2943.43
+CUST7200,64,Male,South Stephen,PROD727,Electronics,282.92,6,2023-06-06,Digital Wallet,2,1697.52
+CUST2372,21,Female,North Nancy,PROD426,Home & Garden,298.92,9,2025-01-07,Credit Card,2,2690.28
+CUST2939,61,Male,Lake Melissa,PROD266,Electronics,144.93,9,2023-05-29,Debit Card,3,1304.37
+CUST3226,59,Male,North Eric,PROD502,Electronics,343.78,1,2024-09-07,Debit Card,4,343.78
+CUST1059,80,Female,Brianchester,PROD731,Electronics,243.46,5,2023-05-26,PayPal,5,1217.3
+CUST5963,59,Male,South Thomas,PROD857,Home & Garden,171.46,4,2023-12-22,Credit Card,3,685.84
+CUST2904,24,Female,Osborneburgh,PROD962,Electronics,141.86,5,2025-01-11,PayPal,1,709.3
+CUST4225,21,Male,West Christopher,PROD406,Clothing,165.94,2,2023-06-08,Debit Card,5,331.88
+CUST3932,43,Male,Randolphmouth,PROD707,Clothing,142.06,7,2024-09-22,Debit Card,4,994.42
+CUST8357,64,Female,North Thomasfort,PROD444,Sports,329.78,6,2024-05-23,Credit Card,1,1978.68
+CUST9797,39,Male,Brownhaven,PROD619,Clothing,476.33,2,2024-05-03,Debit Card,1,952.66
+CUST3328,69,Female,Port Janice,PROD948,Sports,327.48,9,2023-04-30,Debit Card,4,2947.32
+CUST1856,73,Female,Johnton,PROD621,Clothing,98.24,3,2023-08-25,Debit Card,3,294.72
+CUST8022,24,Female,Valerieburgh,PROD645,Home & Garden,261.06,8,2024-06-01,Credit Card,4,2088.48
+CUST5904,33,Female,Tiffanyport,PROD601,Sports,123.95,6,2023-09-05,Credit Card,2,743.7
+CUST8459,30,Male,East Jermaine,PROD825,Books,33.1,6,2023-05-23,Debit Card,5,198.6
+CUST7943,30,Male,Gentrystad,PROD676,Books,429.37,4,2025-03-10,Debit Card,4,1717.48
+CUST5241,52,Female,Reyesberg,PROD406,Clothing,405.96,10,2023-03-08,Digital Wallet,5,4059.6
+CUST7377,46,Male,Marystad,PROD586,Books,205.03,5,2024-03-23,Credit Card,2,1025.15
+CUST9990,26,Male,East Chadmouth,PROD935,Clothing,163.19,3,2024-08-05,PayPal,2,489.57
+CUST4084,45,Male,South Andrew,PROD117,Clothing,74.27,4,2023-08-14,PayPal,2,297.08
+CUST9636,29,Male,Cliffordland,PROD477,Books,17.6,8,2024-03-15,Debit Card,4,140.8
+CUST6800,35,Female,Lake Ashley,PROD439,Books,251.2,4,2024-07-12,Debit Card,3,1004.8
+CUST9978,47,Male,Jenniferborough,PROD789,Electronics,151.32,4,2023-10-04,Digital Wallet,5,605.28
+CUST9417,33,Female,Moraville,PROD212,Sports,453.92,4,2024-05-09,Digital Wallet,4,1815.68
+CUST8467,73,Male,Turnertown,PROD526,Clothing,205.28,5,2024-08-16,Credit Card,1,1026.4
+CUST2530,77,Male,Brittneyberg,PROD697,Books,369.68,4,2023-11-11,PayPal,3,1478.72
+CUST5866,22,Female,Millerview,PROD415,Sports,293.6,4,2023-04-28,Digital Wallet,5,1174.4
+CUST3255,46,Female,South Laurie,PROD915,Books,497.4,4,2024-04-08,PayPal,3,1989.6
+CUST3352,69,Female,Suttonville,PROD842,Books,408.93,4,2023-02-19,Digital Wallet,4,1635.72
+CUST2083,73,Female,South Anthony,PROD993,Electronics,174.87,10,2024-11-15,Debit Card,5,1748.7
+CUST9177,72,Male,East Branditon,PROD804,Clothing,358.12,6,2023-03-29,Digital Wallet,4,2148.72
+CUST3744,53,Female,Port Elizabethland,PROD744,Clothing,344.73,3,2025-02-09,Digital Wallet,2,1034.19
+CUST4878,24,Female,Carrhaven,PROD127,Home & Garden,320.97,2,2023-02-04,Credit Card,1,641.94
+CUST5342,21,Male,Port Brandon,PROD711,Electronics,240.49,2,2024-09-13,Debit Card,1,480.98
+CUST2618,59,Male,South Matthew,PROD585,Sports,470.63,2,2023-05-16,Debit Card,2,941.26
+CUST5560,52,Female,Port Colleenshire,PROD371,Electronics,182.46,8,2025-04-04,Credit Card,3,1459.68
+CUST5703,71,Female,North Susan,PROD771,Sports,153.6,10,2025-04-18,PayPal,3,1536.0
+CUST6789,18,Female,West Seanburgh,PROD901,Clothing,89.14,1,2023-06-16,Debit Card,4,89.14
+CUST9309,80,Female,East Ianside,PROD894,Home & Garden,330.52,9,2024-12-15,Debit Card,1,2974.68
+CUST5503,23,Female,Bakerbury,PROD692,Home & Garden,281.33,1,2024-05-08,Credit Card,3,281.33
+CUST1089,77,Female,Mccormickmouth,PROD691,Clothing,150.42,8,2024-07-12,PayPal,4,1203.36
+CUST7313,66,Female,West Jessica,PROD333,Books,238.04,6,2023-04-21,Debit Card,2,1428.24
+CUST9905,72,Male,Randallport,PROD838,Electronics,371.75,10,2023-07-22,Credit Card,4,3717.5
+CUST8979,33,Female,New Joseberg,PROD152,Home & Garden,363.97,6,2023-02-06,Debit Card,2,2183.82
+CUST8202,28,Female,Jeremyville,PROD697,Books,281.72,8,2023-03-12,Digital Wallet,1,2253.76
+CUST2901,44,Male,Davidhaven,PROD591,Sports,456.75,10,2024-02-03,PayPal,1,4567.5
+CUST8445,49,Male,Joshuafurt,PROD274,Home & Garden,473.73,5,2025-01-28,Digital Wallet,3,2368.65
+CUST6887,48,Female,Powellville,PROD636,Sports,450.3,8,2025-03-24,PayPal,4,3602.4
+CUST8619,31,Female,Nancyshire,PROD744,Books,328.95,3,2023-01-07,Credit Card,1,986.85
+CUST3667,73,Female,Montoyaside,PROD838,Sports,115.02,9,2023-03-26,Debit Card,5,1035.18
+CUST7882,43,Female,Katelynview,PROD734,Books,115.55,5,2024-09-25,Debit Card,3,577.75
+CUST4481,75,Male,Jimenezbury,PROD893,Sports,436.36,7,2023-07-02,Credit Card,5,3054.52
+CUST8341,21,Female,Owensville,PROD961,Electronics,213.13,4,2025-03-09,Debit Card,4,852.52
+CUST7613,28,Female,Martinport,PROD489,Home & Garden,443.99,10,2023-07-30,Digital Wallet,5,4439.9
+CUST2446,42,Male,Gayhaven,PROD251,Home & Garden,188.98,3,2024-08-14,Credit Card,4,566.94
+CUST7818,18,Male,New Richardland,PROD941,Books,294.86,1,2024-10-18,Digital Wallet,3,294.86
+CUST8652,42,Female,Lake Kimberlyview,PROD797,Sports,234.56,9,2023-12-14,PayPal,4,2111.04
+CUST8420,34,Female,Loganberg,PROD348,Clothing,63.3,7,2024-07-23,Debit Card,1,443.1
+CUST4935,77,Male,Fernandezland,PROD132,Home & Garden,31.57,8,2023-03-15,Digital Wallet,3,252.56
+CUST8913,68,Female,Cowanmouth,PROD686,Sports,319.03,9,2023-08-30,Debit Card,5,2871.27
+CUST9455,68,Male,North Anne,PROD817,Sports,292.25,1,2024-06-09,PayPal,5,292.25
+CUST1048,47,Male,Stevenborough,PROD212,Electronics,312.22,9,2023-07-21,Debit Card,1,2809.98
+CUST3334,36,Female,Colonshire,PROD295,Clothing,238.75,6,2025-02-20,PayPal,3,1432.5
+CUST6471,45,Male,Snydershire,PROD119,Home & Garden,101.3,7,2025-04-16,Credit Card,2,709.1
+CUST8646,62,Male,Elizabethfort,PROD551,Electronics,64.31,3,2023-11-28,Debit Card,5,192.93
+CUST2539,79,Male,North Scottton,PROD421,Clothing,341.95,8,2024-10-18,Credit Card,1,2735.6
+CUST5975,64,Female,Port Brenda,PROD528,Home & Garden,267.27,2,2025-01-05,PayPal,2,534.54
+CUST3425,68,Female,Popeshire,PROD255,Electronics,209.49,9,2023-12-07,Credit Card,3,1885.41
+CUST8489,53,Male,Erinborough,PROD522,Clothing,436.07,8,2024-03-15,Digital Wallet,4,3488.56
+CUST7320,60,Female,Lake Melissa,PROD807,Home & Garden,79.64,6,2023-10-20,Credit Card,2,477.84
+CUST1692,63,Male,Garciamouth,PROD308,Clothing,496.21,1,2023-07-27,Digital Wallet,3,496.21
+CUST4332,49,Male,Jacobshire,PROD520,Sports,174.62,1,2023-11-10,PayPal,2,174.62
+CUST7412,27,Female,West Raymond,PROD613,Books,493.66,4,2023-02-27,PayPal,1,1974.64
+CUST3185,30,Female,Jillianport,PROD893,Books,446.96,7,2025-03-25,Debit Card,3,3128.72
+CUST7065,36,Female,West Michael,PROD726,Sports,493.39,10,2023-10-17,Digital Wallet,3,4933.9
+CUST2366,31,Male,West Jessicamouth,PROD582,Clothing,75.9,2,2024-10-16,Debit Card,4,151.8
+CUST4433,79,Male,East Tiffany,PROD993,Sports,431.89,6,2024-01-26,Debit Card,3,2591.34
+CUST4735,21,Male,West Bryan,PROD968,Books,94.28,6,2023-02-13,PayPal,1,565.68
+CUST6497,55,Female,Lake Maryview,PROD853,Books,45.0,10,2023-06-15,Credit Card,3,450.0
+CUST2533,65,Female,Lake Devinmouth,PROD844,Clothing,169.65,5,2024-05-31,PayPal,3,848.25
+CUST2880,52,Male,New Stephenport,PROD163,Books,493.39,3,2024-11-26,PayPal,5,1480.17
+CUST4229,21,Female,North Christopher,PROD822,Sports,160.14,9,2024-09-02,Credit Card,1,1441.26
+CUST2292,65,Female,Fosterbury,PROD241,Clothing,33.72,5,2023-09-27,Digital Wallet,5,168.6
+CUST3333,38,Female,Lake Heather,PROD631,Sports,228.77,4,2024-12-22,Digital Wallet,2,915.08
+CUST2277,21,Female,South Keithmouth,PROD312,Clothing,108.64,5,2025-01-10,Credit Card,2,543.2
+CUST8563,21,Male,West Michelle,PROD674,Books,387.9,8,2023-11-25,Credit Card,1,3103.2
+CUST1028,55,Female,New Troymouth,PROD432,Home & Garden,290.26,10,2024-07-21,Debit Card,5,2902.6
+CUST3658,48,Male,East Devin,PROD778,Clothing,83.43,6,2024-01-03,Credit Card,2,500.58
+CUST2581,50,Male,Andrewshire,PROD589,Clothing,393.68,6,2024-11-12,Credit Card,5,2362.08
+CUST3710,76,Male,Salazarmouth,PROD638,Home & Garden,390.98,3,2024-04-25,Debit Card,3,1172.94
+CUST1411,72,Female,Christianstad,PROD485,Books,69.06,8,2025-01-22,Digital Wallet,3,552.48
+CUST6389,51,Female,Stephanieport,PROD421,Sports,219.69,7,2025-01-06,Credit Card,3,1537.83
+CUST8324,28,Male,North Jasmine,PROD277,Electronics,217.56,4,2024-05-30,Credit Card,3,870.24
+CUST1087,21,Female,East Todd,PROD570,Home & Garden,217.37,7,2024-11-27,Debit Card,3,1521.59
+CUST3462,79,Male,New Rubenview,PROD645,Electronics,241.31,6,2025-03-10,Credit Card,1,1447.86
+CUST1765,50,Female,Emilyfort,PROD450,Books,7.31,6,2023-04-22,Debit Card,5,43.86
+CUST3879,23,Male,Stanleyview,PROD659,Clothing,269.22,7,2023-07-03,PayPal,5,1884.54
+CUST6936,72,Female,Lake Kristen,PROD462,Clothing,366.68,5,2024-04-27,Debit Card,3,1833.4
+CUST1605,29,Female,West Brandon,PROD792,Books,475.28,8,2023-06-04,PayPal,2,3802.24
+CUST5146,22,Female,Douglasville,PROD890,Sports,446.54,3,2024-01-21,PayPal,1,1339.62
+CUST8693,56,Female,Amyfurt,PROD988,Sports,379.64,10,2024-07-05,Debit Card,2,3796.4
+CUST5351,22,Female,Gibbsfort,PROD838,Books,267.86,3,2024-02-06,Debit Card,5,803.58
+CUST9121,61,Male,Lake Jay,PROD797,Books,13.87,10,2023-08-16,Debit Card,3,138.7
+CUST8683,73,Male,Hahnstad,PROD758,Books,7.04,4,2023-04-15,Digital Wallet,3,28.16
+CUST1162,33,Female,New Charleshaven,PROD922,Books,368.13,2,2024-08-24,Credit Card,4,736.26
+CUST9805,43,Male,New Samanthamouth,PROD809,Books,117.0,5,2024-05-08,Debit Card,4,585.0
+CUST6574,25,Female,East Dawn,PROD370,Books,439.11,4,2023-02-02,PayPal,3,1756.44
+CUST1972,78,Male,South Kennethmouth,PROD724,Clothing,159.49,9,2024-04-08,PayPal,2,1435.41
+CUST6276,74,Male,Houstonbury,PROD595,Electronics,55.84,7,2023-03-13,Debit Card,1,390.88
+CUST5667,54,Female,Richardsonville,PROD296,Sports,254.15,7,2024-09-01,Credit Card,2,1779.05
+CUST6970,33,Female,North Brenda,PROD352,Electronics,156.53,4,2023-03-11,Credit Card,2,626.12
+CUST9356,55,Female,North Scott,PROD385,Clothing,37.32,3,2024-07-12,Credit Card,5,111.96
+CUST6336,56,Male,Chadstad,PROD671,Home & Garden,27.63,3,2024-10-29,PayPal,2,82.89
+CUST1629,20,Male,Port Brandon,PROD405,Electronics,474.49,8,2024-01-06,Debit Card,2,3795.92
+CUST6076,57,Male,North Wesley,PROD330,Home & Garden,230.68,1,2024-09-30,Debit Card,5,230.68
+CUST3668,23,Male,Lake Peterborough,PROD404,Clothing,262.54,3,2024-11-15,Debit Card,5,787.62
+CUST6670,44,Female,South Kathleen,PROD889,Sports,264.44,7,2023-10-14,PayPal,5,1851.08
+CUST1263,60,Female,Williammouth,PROD395,Home & Garden,219.66,8,2023-09-05,Debit Card,5,1757.28
+CUST2784,55,Male,Hickstown,PROD821,Clothing,344.96,3,2024-11-05,PayPal,5,1034.88
+CUST2583,54,Male,Cooperview,PROD312,Books,71.23,9,2023-03-19,PayPal,1,641.07
+CUST6379,51,Male,Davidmouth,PROD806,Sports,498.09,9,2023-09-26,Credit Card,4,4482.81
+CUST8067,38,Male,Lake Jeremy,PROD821,Books,247.64,6,2024-01-12,Debit Card,4,1485.84
+CUST1750,77,Female,Scottmouth,PROD600,Sports,376.31,8,2024-04-05,Debit Card,1,3010.48
+CUST2342,34,Female,Joshuafurt,PROD424,Sports,86.62,5,2023-05-01,Digital Wallet,1,433.1
+CUST4154,31,Female,Johnsonhaven,PROD591,Electronics,453.91,5,2023-07-08,Credit Card,2,2269.55
+CUST4715,60,Female,Gregorychester,PROD457,Sports,406.94,9,2025-04-04,PayPal,1,3662.46
+CUST1497,63,Male,Whiteport,PROD673,Electronics,14.47,10,2024-03-06,Credit Card,4,144.7
+CUST6735,38,Female,Woodshaven,PROD914,Home & Garden,116.04,1,2023-10-08,Digital Wallet,3,116.04
+CUST8417,33,Male,South Sara,PROD838,Sports,492.52,7,2024-05-16,Credit Card,3,3447.64
+CUST7089,34,Female,South Dustin,PROD380,Home & Garden,109.54,2,2024-09-30,Credit Card,3,219.08
+CUST1763,43,Female,New Katie,PROD394,Sports,15.85,3,2023-04-13,Digital Wallet,2,47.55
+CUST3973,26,Female,Donaldfort,PROD224,Electronics,254.79,1,2024-03-25,Credit Card,4,254.79
+CUST2290,60,Male,West Michele,PROD687,Books,65.97,4,2024-09-21,Credit Card,5,263.88
+CUST4582,59,Female,Singhport,PROD792,Sports,357.0,5,2024-05-16,Digital Wallet,5,1785.0
+CUST4073,37,Male,Williamville,PROD656,Clothing,397.1,8,2023-06-04,Digital Wallet,3,3176.8
+CUST1157,47,Female,Foleymouth,PROD488,Books,190.72,2,2024-12-18,PayPal,2,381.44
+CUST9867,38,Female,Port Brooke,PROD504,Electronics,321.96,8,2023-07-11,Digital Wallet,3,2575.68
+CUST1905,77,Male,North Veronicaville,PROD938,Clothing,386.77,6,2024-02-13,Debit Card,1,2320.62
+CUST8603,66,Female,West Madisonfurt,PROD453,Home & Garden,313.45,5,2023-03-09,Debit Card,1,1567.25
+CUST8721,77,Male,Scottland,PROD891,Electronics,298.99,6,2024-08-21,Debit Card,2,1793.94
+CUST2582,22,Female,North Melissatown,PROD923,Books,28.74,6,2024-07-10,PayPal,2,172.44
+CUST4872,18,Female,Lake Thomasport,PROD249,Home & Garden,58.52,9,2024-12-14,Credit Card,2,526.68
+CUST9056,47,Male,Adamland,PROD397,Home & Garden,418.88,9,2024-08-21,Digital Wallet,2,3769.92
+CUST2997,57,Female,South Marissaside,PROD143,Electronics,28.88,5,2024-05-01,PayPal,3,144.4
+CUST9198,54,Female,South Ambershire,PROD394,Books,62.32,6,2024-12-27,Credit Card,2,373.92
+CUST1289,24,Male,Kathrynton,PROD831,Electronics,224.94,1,2024-12-01,Digital Wallet,2,224.94
+CUST1722,22,Male,South Monica,PROD180,Clothing,66.18,7,2023-11-09,Credit Card,2,463.26
+CUST7327,52,Female,Lake Carolshire,PROD454,Clothing,130.11,2,2023-08-26,Digital Wallet,1,260.22
+CUST6569,31,Male,Curtisport,PROD552,Sports,352.42,6,2024-08-11,Debit Card,4,2114.52
+CUST3241,50,Male,Lake Davidstad,PROD771,Home & Garden,106.72,10,2023-03-09,Digital Wallet,1,1067.2
+CUST1231,34,Male,Kevinmouth,PROD362,Sports,344.44,4,2025-04-10,Digital Wallet,1,1377.76
+CUST9123,26,Male,New Jacob,PROD865,Books,9.61,10,2024-05-28,PayPal,1,96.1
+CUST8132,77,Female,Thompsonmouth,PROD590,Clothing,213.33,10,2024-10-29,PayPal,4,2133.3
+CUST3384,40,Male,New Jennifer,PROD319,Sports,54.99,9,2023-06-24,PayPal,4,494.91
+CUST6904,74,Male,South Jessicaborough,PROD306,Clothing,262.55,3,2023-12-01,Debit Card,1,787.65
+CUST2454,22,Male,Danabury,PROD947,Clothing,313.28,5,2023-01-14,Debit Card,2,1566.4
+CUST8369,74,Male,West Melissaland,PROD651,Clothing,351.86,6,2023-06-14,Digital Wallet,1,2111.16
+CUST2045,33,Male,Anthonybury,PROD377,Electronics,212.32,6,2023-07-06,PayPal,1,1273.92
+CUST2061,41,Male,North Heatherfort,PROD675,Sports,449.82,9,2025-01-20,Debit Card,5,4048.38
+CUST7895,36,Male,Christopherfort,PROD812,Home & Garden,258.23,8,2024-10-28,Debit Card,5,2065.84
+CUST3630,28,Female,Davidview,PROD378,Sports,310.76,8,2024-04-27,Digital Wallet,1,2486.08
+CUST9410,46,Male,South David,PROD240,Home & Garden,144.94,2,2024-08-28,Digital Wallet,4,289.88
+CUST4534,71,Male,Changton,PROD211,Sports,393.46,7,2023-08-12,Credit Card,1,2754.22
+CUST8342,52,Female,Billyshire,PROD730,Sports,251.38,10,2025-01-28,Credit Card,3,2513.8
+CUST5373,63,Male,East Ashleyport,PROD858,Clothing,306.46,5,2023-05-10,Digital Wallet,1,1532.3
+CUST4944,37,Male,South Douglasville,PROD700,Home & Garden,390.09,8,2024-09-03,Credit Card,1,3120.72
+CUST1976,57,Female,Bettyborough,PROD345,Home & Garden,416.59,3,2023-02-08,Debit Card,3,1249.77
+CUST7299,80,Male,Washingtonfurt,PROD348,Home & Garden,486.69,3,2024-12-22,Digital Wallet,1,1460.07
+CUST2716,69,Male,Port Richardshire,PROD151,Sports,182.17,6,2024-01-24,Digital Wallet,1,1093.02
+CUST2700,59,Male,East Jacqueline,PROD785,Home & Garden,207.83,7,2024-08-19,PayPal,1,1454.81
+CUST7117,51,Male,Lake Lynnborough,PROD643,Sports,84.38,10,2023-11-03,Debit Card,5,843.8
+CUST5850,18,Male,Randyshire,PROD331,Electronics,276.33,10,2023-08-20,Debit Card,2,2763.3
+CUST1741,60,Female,West Larryport,PROD753,Clothing,455.63,7,2023-10-19,PayPal,5,3189.41
+CUST9016,70,Male,Kathrynberg,PROD338,Books,345.66,2,2023-08-03,Credit Card,2,691.32
+CUST8910,53,Female,Ramirezfort,PROD153,Electronics,242.93,2,2024-07-02,Digital Wallet,2,485.86
+CUST4352,37,Male,Port Janet,PROD202,Home & Garden,121.08,3,2024-01-02,Credit Card,3,363.24
+CUST4178,77,Male,South Shane,PROD523,Clothing,11.31,6,2023-02-10,Debit Card,1,67.86
+CUST4482,60,Female,New Jesse,PROD438,Clothing,49.06,4,2024-04-22,Credit Card,1,196.24
+CUST4902,24,Male,Lake Kathrynchester,PROD834,Clothing,59.66,6,2024-11-14,Debit Card,2,357.96
+CUST5333,78,Male,South Dustinfort,PROD583,Clothing,289.21,6,2024-05-11,Digital Wallet,3,1735.26
+CUST6431,74,Female,South Michael,PROD202,Home & Garden,249.58,5,2023-02-18,Digital Wallet,5,1247.9
+CUST5733,26,Male,North Madelineside,PROD797,Clothing,474.98,5,2024-07-16,Digital Wallet,3,2374.9
+CUST5552,34,Male,Port Sethmouth,PROD889,Books,390.87,10,2023-04-03,PayPal,3,3908.7
+CUST4364,25,Female,Sparksshire,PROD240,Books,42.15,7,2025-03-08,PayPal,2,295.05
+CUST6142,74,Female,Berrystad,PROD105,Clothing,363.17,5,2024-06-24,PayPal,5,1815.85
+CUST9110,24,Female,Port Robert,PROD663,Sports,452.87,8,2023-05-20,Digital Wallet,5,3622.96
+CUST9283,65,Male,Amberside,PROD261,Home & Garden,323.95,6,2024-05-07,Digital Wallet,2,1943.7
+CUST8281,53,Female,Lake Brian,PROD516,Books,231.09,10,2024-06-29,Credit Card,5,2310.9
+CUST7548,27,Male,Careystad,PROD768,Books,488.76,9,2023-07-23,Debit Card,5,4398.84
+CUST8063,35,Male,South Christina,PROD999,Books,135.74,8,2023-03-22,PayPal,1,1085.92
+CUST3841,36,Female,Laurenborough,PROD587,Electronics,29.79,7,2024-10-11,Digital Wallet,1,208.53
+CUST5984,56,Female,Brittanyfort,PROD588,Electronics,407.52,3,2023-03-08,Digital Wallet,5,1222.56
+CUST3264,31,Male,Bridgesberg,PROD766,Books,437.7,3,2024-12-15,Debit Card,1,1313.1
+CUST3648,63,Male,Potterview,PROD304,Sports,426.86,1,2024-02-24,PayPal,5,426.86
+CUST6676,39,Female,Lake Stephaniefort,PROD874,Home & Garden,183.31,3,2023-04-28,PayPal,2,549.93
+CUST8887,31,Female,Leeberg,PROD394,Home & Garden,340.0,4,2023-04-18,Credit Card,2,1360.0
+CUST3774,61,Female,South Samuel,PROD428,Books,215.87,5,2024-06-19,Digital Wallet,3,1079.35
+CUST9377,58,Male,West Michael,PROD392,Books,62.37,2,2023-11-26,Credit Card,2,124.74
+CUST5119,72,Female,Doughertyton,PROD761,Home & Garden,426.37,4,2023-01-22,Digital Wallet,5,1705.48
+CUST4927,34,Female,Lake Michaelchester,PROD160,Sports,445.69,3,2023-07-20,Debit Card,1,1337.07
+CUST1073,50,Male,Delgadoshire,PROD887,Electronics,9.79,7,2025-03-21,Credit Card,1,68.53
+CUST8678,49,Male,Port Briana,PROD191,Electronics,73.51,2,2025-01-04,Digital Wallet,2,147.02
+CUST8543,34,Female,Jamesville,PROD767,Books,325.36,2,2024-04-02,PayPal,5,650.72
+CUST9839,75,Male,East Brandishire,PROD687,Home & Garden,167.69,2,2024-07-11,Debit Card,4,335.38
+CUST4941,76,Male,Hallview,PROD337,Electronics,447.79,8,2024-11-09,Digital Wallet,3,3582.32
+CUST5268,72,Male,Hamptonfort,PROD647,Sports,477.77,9,2024-08-12,Credit Card,5,4299.93
+CUST9863,21,Female,Lake Nicholasmouth,PROD856,Books,137.81,1,2024-10-05,Credit Card,2,137.81
+CUST5156,23,Female,South Karla,PROD840,Clothing,367.87,1,2023-12-13,Digital Wallet,4,367.87
+CUST7483,58,Female,Port Marc,PROD970,Books,189.45,7,2025-01-11,Debit Card,1,1326.15
+CUST4401,45,Female,Patrickchester,PROD138,Clothing,174.65,9,2024-03-22,Digital Wallet,2,1571.85
+CUST9247,71,Female,Lauraville,PROD279,Books,61.35,2,2025-02-05,Credit Card,3,122.7
+CUST9744,35,Female,Garnerstad,PROD527,Home & Garden,203.12,2,2024-01-26,Credit Card,4,406.24
+CUST8622,20,Male,Berryside,PROD957,Home & Garden,230.99,5,2024-03-08,PayPal,4,1154.95
+CUST4843,18,Male,Reyestown,PROD280,Home & Garden,418.68,10,2024-03-22,PayPal,2,4186.8
+CUST8718,39,Male,Whiteheadside,PROD137,Home & Garden,346.5,3,2024-11-04,Credit Card,5,1039.5
+CUST8691,67,Female,Amandaton,PROD956,Sports,241.73,2,2023-01-27,PayPal,2,483.46
+CUST4029,26,Female,Heatherburgh,PROD506,Sports,213.76,7,2024-10-28,PayPal,4,1496.32
+CUST5057,58,Male,North Ashley,PROD906,Clothing,443.63,5,2024-11-23,Digital Wallet,1,2218.15
+CUST2461,80,Female,Tiffanyborough,PROD607,Sports,87.56,4,2023-08-01,Debit Card,3,350.24
+CUST2826,34,Female,West Kathyview,PROD290,Books,70.59,4,2023-03-05,Digital Wallet,1,282.36
+CUST7167,28,Female,Mannington,PROD866,Home & Garden,364.57,5,2023-03-15,Digital Wallet,4,1822.85
+CUST4708,65,Female,Weisstown,PROD993,Electronics,490.88,8,2023-12-27,PayPal,1,3927.04
+CUST2794,46,Female,Michelletown,PROD396,Electronics,422.95,3,2023-02-23,PayPal,5,1268.85
+CUST6948,53,Male,Markchester,PROD997,Electronics,56.34,3,2024-06-14,Debit Card,2,169.02
+CUST4714,63,Female,Walshview,PROD138,Books,456.06,9,2023-06-30,Debit Card,4,4104.54
+CUST4649,45,Female,Lake Susanview,PROD109,Electronics,243.92,3,2024-06-18,Debit Card,3,731.76
+CUST8115,53,Female,Markbury,PROD405,Electronics,286.63,1,2025-02-10,Digital Wallet,3,286.63
+CUST8122,18,Female,Andersonshire,PROD681,Clothing,221.89,1,2024-04-20,Debit Card,5,221.89
+CUST2192,25,Female,Cristinaburgh,PROD717,Books,307.6,6,2025-03-23,Credit Card,1,1845.6
+CUST7203,22,Male,Brownberg,PROD209,Books,390.69,6,2025-01-14,Credit Card,1,2344.14
+CUST3242,78,Female,Ronaldton,PROD443,Electronics,307.62,8,2024-07-07,Digital Wallet,3,2460.96
+CUST8184,74,Male,Laurabury,PROD391,Books,431.98,8,2023-10-11,PayPal,4,3455.84
+CUST9067,62,Male,Karenville,PROD565,Clothing,440.58,9,2024-01-04,Debit Card,1,3965.22
+CUST8685,75,Male,New Andrew,PROD756,Clothing,365.0,5,2024-11-26,Credit Card,4,1825.0
+CUST6613,27,Male,Benjaminside,PROD656,Home & Garden,446.42,9,2023-11-05,Debit Card,3,4017.78
+CUST8606,52,Female,Jaredport,PROD636,Clothing,244.12,8,2024-03-20,Credit Card,4,1952.96
+CUST3633,20,Male,South Frank,PROD605,Home & Garden,246.62,3,2023-09-08,Credit Card,5,739.86
+CUST1254,71,Female,Heatherville,PROD237,Electronics,444.36,9,2024-03-28,Debit Card,3,3999.24
+CUST3457,41,Male,Mcgeefort,PROD971,Home & Garden,223.14,3,2023-12-20,Credit Card,4,669.42
+CUST3955,55,Male,Charlestown,PROD616,Home & Garden,36.35,10,2023-07-09,Debit Card,2,363.5
+CUST6473,53,Female,New Catherine,PROD579,Electronics,329.21,10,2024-02-25,Credit Card,5,3292.1
+CUST4470,27,Male,Lake Grant,PROD379,Home & Garden,11.12,8,2024-07-30,PayPal,4,88.96
+CUST4526,45,Female,South Jillburgh,PROD297,Clothing,434.82,10,2023-07-03,Digital Wallet,3,4348.2
+CUST7116,26,Female,Jamieburgh,PROD928,Electronics,264.78,7,2023-12-10,Digital Wallet,4,1853.46
+CUST3465,20,Female,Port Jacquelinebury,PROD215,Books,373.09,9,2024-07-10,Debit Card,2,3357.81
+CUST9815,37,Male,Charlesmouth,PROD438,Home & Garden,363.27,9,2024-02-10,Digital Wallet,1,3269.43
+CUST8710,41,Female,Mcbrideside,PROD266,Clothing,115.87,5,2023-10-04,Digital Wallet,4,579.35
+CUST4613,75,Female,Shafferbury,PROD848,Books,478.1,6,2023-05-12,Digital Wallet,3,2868.6
+CUST2198,77,Female,Abigailland,PROD569,Electronics,437.21,8,2025-02-25,Digital Wallet,2,3497.68
+CUST4597,68,Male,Salazarchester,PROD763,Electronics,261.95,9,2024-02-03,PayPal,1,2357.55
+CUST2153,80,Male,Lake Nicholas,PROD363,Electronics,345.68,4,2025-01-02,PayPal,4,1382.72
+CUST1485,73,Male,East Kimberly,PROD835,Clothing,311.03,2,2023-11-28,Digital Wallet,1,622.06
+CUST4266,20,Female,Markhaven,PROD290,Books,219.26,8,2024-04-14,PayPal,4,1754.08
+CUST4434,75,Male,Montoyaport,PROD114,Electronics,364.69,5,2023-05-10,PayPal,4,1823.45
+CUST3329,40,Male,New Kathleen,PROD854,Clothing,243.56,6,2023-05-23,Digital Wallet,5,1461.36
+CUST1011,31,Female,Carltown,PROD445,Sports,333.54,7,2025-03-01,Debit Card,1,2334.78
+CUST5742,61,Female,West Nancy,PROD909,Clothing,322.5,5,2023-10-07,Digital Wallet,1,1612.5
+CUST6854,33,Male,West Sherryton,PROD402,Sports,78.58,3,2024-08-26,PayPal,2,235.74
+CUST2384,60,Female,Lake Justin,PROD681,Books,414.09,5,2024-01-21,Debit Card,4,2070.45
+CUST8322,24,Male,Ryantown,PROD790,Electronics,446.57,1,2024-10-23,PayPal,4,446.57
+CUST4893,40,Female,South Johnmouth,PROD875,Electronics,308.39,1,2024-03-31,PayPal,5,308.39
+CUST7451,67,Male,Port Charles,PROD297,Home & Garden,10.76,9,2024-02-14,Credit Card,1,96.84
+CUST5013,53,Female,Brandonville,PROD279,Electronics,467.51,3,2023-01-09,Credit Card,2,1402.53
+CUST4400,74,Male,Ericview,PROD725,Books,255.26,6,2024-04-09,Credit Card,1,1531.56
+CUST5421,73,Male,South Lori,PROD976,Clothing,237.3,5,2023-04-21,PayPal,3,1186.5
+CUST9591,44,Female,Janetville,PROD754,Books,250.44,8,2025-03-22,Digital Wallet,2,2003.52
+CUST4208,80,Female,Farmerfurt,PROD515,Electronics,86.87,9,2023-12-31,Digital Wallet,3,781.83
+CUST5635,57,Female,Brownton,PROD946,Clothing,376.96,1,2023-06-17,PayPal,2,376.96
+CUST1630,65,Female,Christopherport,PROD537,Books,163.71,8,2024-05-15,Credit Card,5,1309.68
+CUST7804,27,Male,East Ashleyberg,PROD627,Electronics,168.79,8,2023-09-06,PayPal,4,1350.32
+CUST5849,77,Male,South Sarahstad,PROD435,Electronics,142.69,5,2024-07-07,Digital Wallet,1,713.45
+CUST6755,77,Male,Danielfurt,PROD188,Electronics,255.93,1,2024-03-01,Digital Wallet,2,255.93
+CUST8214,33,Female,Cisnerosmouth,PROD510,Home & Garden,277.5,7,2024-04-06,Digital Wallet,4,1942.5
+CUST1504,73,Male,Kimberlyhaven,PROD785,Home & Garden,192.43,5,2023-09-03,PayPal,4,962.15
+CUST2842,28,Male,Lake Matthewmouth,PROD197,Home & Garden,409.47,10,2023-03-23,Digital Wallet,3,4094.7
+CUST4138,80,Male,Carolynland,PROD289,Clothing,44.02,4,2023-06-11,Digital Wallet,5,176.08
+CUST1113,69,Male,Aliciaport,PROD243,Books,224.87,1,2023-05-02,Digital Wallet,5,224.87
+CUST5087,69,Male,West Garrettfort,PROD588,Clothing,288.65,9,2023-06-29,Digital Wallet,3,2597.85
+CUST4812,29,Female,Halefurt,PROD431,Clothing,48.57,6,2024-04-09,Debit Card,4,291.42
+CUST5311,74,Female,North Erinberg,PROD354,Electronics,251.74,4,2025-02-28,PayPal,3,1006.96
+CUST3134,44,Female,Jacquelineview,PROD106,Sports,161.45,7,2024-02-26,PayPal,4,1130.15
+CUST4091,19,Female,North John,PROD367,Sports,490.43,9,2025-04-07,Digital Wallet,5,4413.87
+CUST1215,29,Male,Contrerashaven,PROD492,Electronics,373.89,7,2023-09-29,Credit Card,4,2617.23
+CUST5809,65,Female,Campbellshire,PROD341,Sports,13.8,7,2025-04-21,Digital Wallet,4,96.6
+CUST7048,77,Female,East Anthonyborough,PROD557,Clothing,204.7,4,2024-10-05,PayPal,5,818.8
+CUST6043,39,Female,Robinsontown,PROD871,Books,22.74,3,2024-04-18,Debit Card,3,68.22
+CUST9670,68,Male,Jamesbury,PROD373,Home & Garden,276.8,7,2024-02-23,Digital Wallet,2,1937.6
+CUST4308,77,Male,New Heatherland,PROD437,Clothing,413.82,7,2024-02-10,Debit Card,4,2896.74
+CUST4041,44,Male,Reevestown,PROD409,Clothing,396.93,4,2023-01-27,Credit Card,1,1587.72
+CUST6442,69,Male,New Kathrynberg,PROD696,Books,481.77,5,2024-05-04,Credit Card,1,2408.85
+CUST4001,60,Male,Riveraview,PROD840,Sports,320.58,2,2023-06-28,Digital Wallet,3,641.16
+CUST6022,73,Male,Martinezview,PROD686,Books,445.6,7,2023-07-11,Debit Card,4,3119.2
+CUST4234,65,Female,East Andres,PROD111,Clothing,283.35,4,2023-10-12,Credit Card,4,1133.4
+CUST6571,69,Female,West Destinyshire,PROD367,Electronics,329.03,9,2024-05-10,Digital Wallet,2,2961.27
+CUST3064,33,Female,Dianafurt,PROD769,Electronics,230.82,10,2024-08-28,Credit Card,2,2308.2
+CUST4712,35,Female,East Marymouth,PROD468,Clothing,173.72,5,2024-03-19,PayPal,1,868.6
+CUST9013,28,Female,New Angelaberg,PROD809,Electronics,413.53,5,2023-12-05,Debit Card,1,2067.65
+CUST5455,68,Female,Emilyfurt,PROD341,Sports,409.21,9,2023-01-31,Digital Wallet,1,3682.89
+CUST5418,62,Female,Lake Sarahville,PROD163,Books,422.94,5,2024-12-15,Credit Card,1,2114.7
+CUST7427,24,Male,Jasonfurt,PROD783,Home & Garden,169.33,7,2024-07-29,Credit Card,4,1185.31
+CUST9491,42,Male,North Kathyberg,PROD221,Books,384.87,4,2023-02-06,PayPal,1,1539.48
+CUST7537,73,Female,New Lisaport,PROD576,Home & Garden,301.98,2,2023-10-04,Digital Wallet,2,603.96
+CUST1538,20,Female,Williamside,PROD414,Clothing,359.75,3,2024-07-25,Credit Card,4,1079.25
+CUST8312,72,Male,Christopherfurt,PROD263,Clothing,184.83,3,2023-11-15,Debit Card,5,554.49
+CUST4016,48,Female,East Greg,PROD515,Home & Garden,229.0,5,2024-06-03,Credit Card,3,1145.0
+CUST6111,32,Female,Millerland,PROD802,Electronics,53.23,2,2023-06-23,Debit Card,2,106.46
+CUST7559,30,Female,North Adam,PROD614,Clothing,331.16,8,2024-09-25,Credit Card,3,2649.28
+CUST3823,70,Male,Christopherhaven,PROD820,Sports,6.09,10,2024-09-20,Digital Wallet,5,60.9
+CUST5722,76,Male,East Juliemouth,PROD888,Sports,180.79,8,2023-05-31,Digital Wallet,5,1446.32
+CUST8447,47,Female,Deniseville,PROD418,Sports,318.66,5,2023-08-30,Digital Wallet,1,1593.3
+CUST1517,40,Male,Maryton,PROD806,Sports,400.96,10,2023-11-28,Debit Card,1,4009.6
+CUST6064,37,Male,New James,PROD220,Home & Garden,276.11,8,2025-04-17,Digital Wallet,5,2208.88
+CUST9592,70,Male,New Charles,PROD754,Electronics,190.08,4,2024-01-06,Debit Card,4,760.32
+CUST9002,68,Female,Taylormouth,PROD402,Home & Garden,57.63,6,2024-11-08,Debit Card,4,345.78
+CUST3486,73,Male,New Louis,PROD476,Clothing,448.95,1,2023-08-09,Debit Card,2,448.95
+CUST6420,32,Male,Jonesville,PROD729,Sports,248.75,3,2023-05-27,PayPal,3,746.25
+CUST6223,32,Female,New Matthew,PROD326,Sports,411.81,1,2023-09-09,Credit Card,4,411.81
+CUST9236,19,Female,Port Zachary,PROD324,Sports,372.54,9,2024-05-31,Debit Card,4,3352.86
+CUST2897,60,Female,Sotohaven,PROD236,Clothing,207.56,1,2024-04-25,Debit Card,5,207.56
+CUST8386,30,Male,Lake Madisonbury,PROD589,Books,130.87,3,2024-12-10,Credit Card,3,392.61
+CUST2898,43,Male,Lisaton,PROD256,Home & Garden,101.98,2,2023-05-01,Digital Wallet,5,203.96
+CUST7127,39,Female,North Carrie,PROD565,Electronics,64.77,5,2023-03-29,PayPal,3,323.85
+CUST9290,35,Female,West Shannonside,PROD865,Clothing,426.84,5,2024-09-30,Credit Card,5,2134.2
+CUST3905,73,Male,Wadefurt,PROD720,Books,111.72,3,2023-02-20,Debit Card,5,335.16
+CUST4998,22,Male,Port Davidport,PROD482,Books,413.15,8,2023-03-25,Credit Card,1,3305.2
+CUST3231,79,Female,North Tanyaville,PROD525,Electronics,99.34,1,2023-08-18,Debit Card,1,99.34
+CUST4859,67,Male,Gravesstad,PROD818,Clothing,172.28,4,2023-08-10,Digital Wallet,4,689.12
+CUST3802,35,Female,North Jessicaville,PROD662,Books,379.79,2,2023-04-23,Credit Card,1,759.58
+CUST7397,40,Male,Joshuamouth,PROD582,Sports,28.02,3,2023-05-08,PayPal,4,84.06
+CUST8302,59,Female,South Kimberly,PROD875,Electronics,318.45,1,2024-12-20,Credit Card,4,318.45
+CUST9166,50,Male,South Christopherberg,PROD650,Sports,337.71,8,2023-01-02,Debit Card,3,2701.68
+CUST5675,43,Female,Hooverhaven,PROD921,Electronics,65.99,4,2025-04-13,Debit Card,4,263.96
+CUST7824,61,Male,New Brandonfurt,PROD780,Home & Garden,446.42,6,2025-02-12,PayPal,4,2678.52
+CUST6681,80,Female,Thomashaven,PROD945,Home & Garden,231.41,7,2023-07-10,Debit Card,4,1619.87
+CUST4170,71,Male,Wendymouth,PROD323,Clothing,296.71,5,2023-02-21,Debit Card,1,1483.55
+CUST6017,52,Female,Davidburgh,PROD880,Books,254.58,8,2023-01-18,Debit Card,1,2036.64
+CUST8977,39,Female,Fordchester,PROD353,Sports,482.11,6,2023-12-13,Credit Card,2,2892.66
+CUST1764,78,Female,South Michael,PROD796,Books,7.15,8,2023-10-24,Credit Card,5,57.2
+CUST6412,19,Female,Williamburgh,PROD872,Home & Garden,369.43,1,2025-02-15,PayPal,3,369.43
+CUST9606,25,Female,New Lindseyberg,PROD710,Sports,278.85,6,2024-04-02,PayPal,2,1673.1
+CUST1475,74,Male,Danielstad,PROD994,Clothing,219.24,2,2025-03-13,Digital Wallet,4,438.48
+CUST4891,80,Female,Robertshire,PROD906,Books,294.63,3,2023-05-30,Debit Card,4,883.89
+CUST3565,34,Male,North Glennburgh,PROD183,Electronics,462.56,1,2024-04-07,PayPal,2,462.56
+CUST4513,29,Female,Patricktown,PROD638,Electronics,391.64,5,2023-09-17,Debit Card,3,1958.2
+CUST7256,55,Male,Millerberg,PROD557,Sports,455.54,7,2024-04-18,PayPal,4,3188.78
+CUST5317,79,Female,Karenshire,PROD640,Electronics,347.45,2,2023-09-25,Digital Wallet,4,694.9
+CUST5528,80,Female,West Maria,PROD820,Electronics,90.96,9,2024-01-10,PayPal,1,818.64
+CUST3575,34,Male,North Andrewtown,PROD470,Home & Garden,408.55,8,2024-11-15,Credit Card,5,3268.4
+CUST2827,20,Female,Reyesstad,PROD179,Clothing,56.26,3,2023-04-21,Debit Card,4,168.78
+CUST2528,24,Male,Rebeccaville,PROD677,Electronics,330.47,4,2024-02-10,Credit Card,5,1321.88
+CUST8116,56,Male,Lake Justinchester,PROD214,Electronics,305.05,5,2024-10-02,PayPal,5,1525.25
+CUST5582,45,Female,West Rebecca,PROD163,Books,164.31,7,2024-04-09,PayPal,5,1150.17
+CUST6634,40,Female,Lauraland,PROD948,Sports,441.29,1,2023-12-24,Digital Wallet,4,441.29
+CUST4540,64,Male,New Brendashire,PROD660,Home & Garden,212.24,2,2023-02-28,Digital Wallet,4,424.48
+CUST5127,68,Female,West Roberthaven,PROD617,Sports,306.45,4,2024-03-09,Digital Wallet,5,1225.8
+CUST6643,38,Female,Patricialand,PROD307,Books,347.8,7,2023-11-05,PayPal,2,2434.6
+CUST5037,45,Female,South Frances,PROD686,Books,127.88,8,2024-12-26,Digital Wallet,5,1023.04
+CUST5491,56,Male,Port Amanda,PROD649,Books,201.95,4,2024-01-23,PayPal,1,807.8
+CUST3830,80,Female,North Jeffrey,PROD253,Electronics,174.72,1,2024-08-31,PayPal,4,174.72
+CUST7787,50,Male,Leonland,PROD268,Sports,150.62,4,2024-02-14,Debit Card,3,602.48
+CUST7041,25,Male,Jenkinsfort,PROD435,Sports,403.37,8,2024-04-06,Credit Card,4,3226.96
+CUST5802,42,Male,Dominguezfurt,PROD974,Sports,73.4,2,2024-05-31,Debit Card,5,146.8
+CUST5944,75,Male,North Davidchester,PROD632,Clothing,303.25,9,2023-10-07,Credit Card,4,2729.25
+CUST2800,54,Female,West Toddburgh,PROD552,Home & Garden,443.79,4,2024-12-08,Credit Card,5,1775.16
+CUST8796,30,Female,Huntborough,PROD219,Electronics,258.59,8,2024-09-10,PayPal,3,2068.72
+CUST3947,34,Male,East Lorraineberg,PROD796,Home & Garden,422.32,7,2023-08-11,Digital Wallet,3,2956.24
+CUST2046,20,Male,Port Matthew,PROD310,Electronics,276.16,5,2024-08-05,Digital Wallet,3,1380.8
+CUST6992,63,Male,New Cynthiachester,PROD834,Sports,160.39,6,2025-01-10,Digital Wallet,1,962.34
+CUST7549,45,Male,New Ericborough,PROD697,Clothing,369.73,3,2025-02-15,Debit Card,1,1109.19
+CUST2575,18,Female,New Cassandrastad,PROD600,Clothing,279.02,1,2024-06-11,Digital Wallet,5,279.02
+CUST5882,51,Male,New Lisa,PROD193,Sports,112.58,9,2023-01-11,PayPal,1,1013.22
+CUST6237,77,Male,West Emilyburgh,PROD622,Home & Garden,108.81,9,2024-10-08,Digital Wallet,2,979.29
+CUST7111,69,Male,North Anne,PROD556,Books,358.62,2,2023-06-27,Digital Wallet,3,717.24
+CUST5014,52,Male,Davidstad,PROD928,Sports,344.87,5,2023-05-15,Digital Wallet,3,1724.35
+CUST6851,61,Male,Danielport,PROD156,Electronics,460.99,8,2023-01-18,Debit Card,5,3687.92
+CUST5429,64,Female,Mccallchester,PROD564,Home & Garden,70.67,5,2024-04-26,PayPal,1,353.35
+CUST1118,78,Female,Port Philipview,PROD235,Books,356.65,4,2024-03-24,Digital Wallet,3,1426.6
+CUST7988,65,Female,Pittstown,PROD625,Clothing,487.71,6,2024-09-02,Credit Card,4,2926.26
+CUST3741,65,Female,North Kathy,PROD525,Electronics,93.02,1,2024-11-02,Debit Card,1,93.02
+CUST2922,60,Female,Russellmouth,PROD567,Clothing,273.53,4,2023-07-26,Digital Wallet,4,1094.12
+CUST5765,30,Male,Hesshaven,PROD677,Electronics,320.25,2,2023-05-23,Digital Wallet,3,640.5
+CUST7552,41,Female,New Janet,PROD159,Books,356.62,4,2023-08-07,Debit Card,3,1426.48
+CUST3451,45,Male,Haroldland,PROD672,Electronics,381.58,7,2024-05-14,Credit Card,4,2671.06
+CUST1389,22,Female,Saramouth,PROD573,Books,283.33,6,2025-02-28,Credit Card,3,1699.98
+CUST8532,78,Female,South Elizabethchester,PROD788,Sports,293.49,1,2024-12-11,Debit Card,1,293.49
+CUST5877,60,Female,North Ashley,PROD926,Sports,471.62,3,2024-09-15,Digital Wallet,2,1414.86
+CUST7952,76,Female,Port Phillip,PROD415,Electronics,356.51,5,2023-12-08,Debit Card,2,1782.55
+CUST2766,39,Male,Port Susanborough,PROD840,Home & Garden,338.75,10,2025-03-03,Debit Card,2,3387.5
+CUST6978,57,Female,Tranview,PROD122,Clothing,447.46,2,2024-03-19,Debit Card,3,894.92
+CUST5272,38,Male,Port Sean,PROD505,Electronics,269.28,7,2024-07-07,Debit Card,5,1884.96
+CUST7235,60,Female,North Daniel,PROD360,Electronics,439.35,4,2023-08-19,Credit Card,1,1757.4
+CUST4226,72,Female,East Eric,PROD936,Clothing,214.08,1,2025-02-04,Debit Card,1,214.08
+CUST5392,25,Female,Fieldsshire,PROD103,Electronics,11.32,1,2023-02-27,Digital Wallet,3,11.32
+CUST9073,64,Male,Youngside,PROD863,Clothing,57.7,10,2024-09-22,Digital Wallet,1,577.0
+CUST5654,75,Male,Meaganborough,PROD323,Books,193.53,8,2024-02-08,PayPal,3,1548.24
+CUST4342,37,Female,West Lisa,PROD692,Home & Garden,31.27,10,2024-01-11,PayPal,2,312.7
+CUST7565,50,Female,Anthonyport,PROD174,Sports,33.02,3,2023-06-14,Debit Card,1,99.06
+CUST6356,37,Male,North Matthew,PROD146,Sports,137.15,6,2023-10-13,PayPal,5,822.9
+CUST4575,60,Male,Port Matthew,PROD533,Home & Garden,393.84,2,2024-02-23,Debit Card,3,787.68
+CUST3093,44,Female,North Joshua,PROD452,Clothing,491.85,4,2023-11-27,Credit Card,1,1967.4
+CUST9518,38,Female,West Christinaville,PROD817,Home & Garden,343.28,3,2023-12-13,Credit Card,4,1029.84
+CUST7505,43,Male,Catherineport,PROD165,Clothing,77.48,8,2024-02-23,Credit Card,4,619.84
+CUST8435,62,Female,Jonesside,PROD654,Home & Garden,35.71,2,2023-06-14,Credit Card,5,71.42
+CUST5668,36,Male,New Phyllis,PROD161,Electronics,393.26,10,2023-06-10,Digital Wallet,5,3932.6
+CUST9701,53,Female,New Heidi,PROD170,Electronics,105.98,6,2025-04-07,Credit Card,4,635.88
+CUST2746,26,Female,Andreatown,PROD583,Home & Garden,272.88,1,2025-02-10,Credit Card,3,272.88
+CUST2586,30,Male,Port Jeffrey,PROD132,Books,182.55,1,2024-06-18,Digital Wallet,1,182.55
+CUST1183,44,Male,East Anthony,PROD393,Home & Garden,229.03,6,2024-03-20,Debit Card,4,1374.18
+CUST6054,60,Female,West Ericaside,PROD518,Sports,309.97,3,2023-05-28,PayPal,5,929.91
+CUST2494,78,Male,Torresmouth,PROD284,Electronics,339.39,9,2023-02-15,Debit Card,1,3054.51
+CUST6592,42,Female,South Michelle,PROD887,Home & Garden,283.13,2,2025-02-01,Debit Card,3,566.26
+CUST9808,61,Male,South Jessicaland,PROD238,Sports,116.03,3,2023-05-05,PayPal,4,348.09
+CUST3138,65,Male,Dickersonchester,PROD884,Electronics,325.32,8,2023-03-18,Credit Card,5,2602.56
+CUST1789,75,Male,Harristown,PROD756,Books,197.5,4,2024-04-08,Credit Card,4,790.0
+CUST3957,29,Male,Butlershire,PROD846,Books,257.91,6,2023-06-10,Credit Card,3,1547.46
+CUST9458,57,Female,Kimburgh,PROD761,Sports,399.43,9,2023-12-29,Credit Card,5,3594.87
+CUST9313,54,Female,South Christopher,PROD530,Home & Garden,349.58,6,2024-12-26,PayPal,1,2097.48
+CUST4792,37,Male,East Oscarchester,PROD483,Electronics,348.0,8,2024-07-11,Credit Card,4,2784.0
+CUST7664,43,Female,Lake Heather,PROD491,Books,28.26,4,2024-11-17,Credit Card,1,113.04
+CUST5479,53,Female,Harristown,PROD559,Sports,193.88,1,2024-10-20,Credit Card,2,193.88
+CUST9639,71,Female,New Andrewfort,PROD990,Clothing,211.2,7,2024-12-30,PayPal,3,1478.4
+CUST1992,18,Female,South Arianaport,PROD486,Home & Garden,395.12,6,2023-03-26,Digital Wallet,4,2370.72
+CUST3336,37,Female,New Samanthaland,PROD484,Clothing,344.15,3,2025-02-09,PayPal,5,1032.45
+CUST5475,36,Female,Port Stephen,PROD182,Home & Garden,483.09,5,2025-01-16,Credit Card,3,2415.45
+CUST3603,31,Male,East Michaelchester,PROD799,Electronics,31.63,1,2023-04-16,PayPal,2,31.63
+CUST6834,45,Female,South Joshua,PROD777,Sports,373.12,8,2023-12-04,Debit Card,5,2984.96
+CUST6072,68,Male,Theresamouth,PROD995,Electronics,105.53,8,2024-09-22,Debit Card,3,844.24
+CUST5600,55,Female,East Jameschester,PROD652,Clothing,435.08,9,2024-03-03,Digital Wallet,3,3915.72
+CUST4048,56,Male,Orrstad,PROD236,Sports,430.92,5,2024-02-27,Credit Card,4,2154.6
+CUST4915,59,Female,New Travis,PROD769,Electronics,224.32,9,2024-03-18,Digital Wallet,2,2018.88
+CUST6940,38,Female,Joshuastad,PROD980,Electronics,116.65,8,2024-01-01,Debit Card,4,933.2
+CUST5148,47,Female,New Jennifer,PROD456,Electronics,318.73,4,2024-12-25,Digital Wallet,1,1274.92
+CUST7583,46,Male,Lake Williamchester,PROD221,Clothing,356.22,10,2023-10-02,Debit Card,5,3562.2
+CUST8964,46,Female,New Kathleen,PROD282,Electronics,187.03,3,2024-09-21,Debit Card,2,561.09
+CUST8570,61,Male,Edwardborough,PROD650,Books,296.25,9,2024-08-05,PayPal,3,2666.25
+CUST8696,31,Male,New Connor,PROD502,Home & Garden,370.53,6,2024-11-15,Credit Card,3,2223.18
+CUST8478,50,Female,East Tony,PROD641,Books,102.25,6,2024-11-14,Debit Card,1,613.5
+CUST2930,48,Female,South Wendyberg,PROD230,Clothing,363.83,8,2024-03-15,Credit Card,3,2910.64
+CUST6804,68,Female,Port Amandaville,PROD845,Clothing,100.78,5,2024-02-08,Digital Wallet,5,503.9
+CUST6262,75,Male,Port Susan,PROD328,Electronics,227.16,10,2024-07-07,Digital Wallet,4,2271.6
+CUST5632,79,Male,Maryberg,PROD954,Sports,491.81,9,2025-04-01,Debit Card,2,4426.29
+CUST5799,68,Female,Lake Joseph,PROD103,Books,41.86,3,2023-05-15,Credit Card,5,125.58
+CUST3422,65,Female,East Timothyport,PROD874,Clothing,481.43,2,2024-01-11,Debit Card,1,962.86
+CUST4259,28,Female,Kariburgh,PROD123,Home & Garden,368.86,9,2024-05-25,Debit Card,5,3319.74
+CUST8409,60,Male,Jeffland,PROD405,Clothing,64.08,3,2023-11-10,PayPal,1,192.24
+CUST2124,23,Male,East Miguel,PROD574,Books,25.11,8,2023-09-12,Digital Wallet,5,200.88
+CUST7003,36,Female,South Cindyborough,PROD789,Home & Garden,143.16,5,2023-07-01,Credit Card,3,715.8
+CUST7555,50,Female,Crawfordmouth,PROD836,Home & Garden,135.8,5,2025-01-31,Digital Wallet,3,679.0
+CUST1734,60,Male,Darrenport,PROD657,Electronics,84.66,9,2023-09-14,PayPal,1,761.94
+CUST4040,58,Female,North Williamborough,PROD534,Sports,423.78,6,2024-11-13,Digital Wallet,5,2542.68
+CUST8377,57,Female,Reginaldhaven,PROD644,Home & Garden,7.79,8,2024-01-19,PayPal,5,62.32
+CUST7098,39,Male,West Mary,PROD488,Electronics,235.83,1,2023-12-17,Digital Wallet,4,235.83
+CUST6144,23,Male,North Jeffrey,PROD943,Sports,469.06,9,2024-09-05,Credit Card,4,4221.54
+CUST1936,70,Female,Coxmouth,PROD335,Electronics,24.77,7,2023-11-21,PayPal,2,173.39
+CUST3872,78,Female,New Jonathonmouth,PROD353,Clothing,464.67,3,2025-03-15,Digital Wallet,3,1394.01
+CUST1884,66,Male,Nelsonside,PROD571,Clothing,300.46,1,2025-02-03,PayPal,1,300.46
+CUST3958,33,Male,Fletcherside,PROD454,Sports,387.96,10,2024-12-30,Credit Card,3,3879.6
+CUST1548,61,Male,Richardberg,PROD258,Electronics,314.56,6,2025-03-20,Digital Wallet,5,1887.36
+CUST9057,37,Male,North Seanport,PROD382,Books,422.35,10,2024-08-30,Debit Card,3,4223.5
+CUST7132,32,Male,Lake Lauren,PROD293,Electronics,154.07,4,2023-05-10,Credit Card,4,616.28
+CUST6545,69,Female,West Michael,PROD996,Books,396.0,6,2023-12-29,Credit Card,5,2376.0
+CUST6872,30,Male,Jeanneshire,PROD842,Home & Garden,277.33,2,2023-09-11,Credit Card,3,554.66
+CUST4748,27,Male,Robertsfurt,PROD883,Home & Garden,41.08,9,2024-08-28,Credit Card,2,369.72
+CUST1326,19,Female,Castrotown,PROD215,Home & Garden,355.3,7,2023-08-01,Debit Card,4,2487.1
+CUST1098,20,Male,North Judyside,PROD132,Electronics,265.07,4,2023-11-13,Digital Wallet,4,1060.28
+CUST9336,33,Female,Greenechester,PROD928,Sports,478.71,9,2023-08-10,Credit Card,3,4308.39
+CUST1278,80,Male,Orozcochester,PROD776,Books,262.7,8,2023-03-11,Digital Wallet,5,2101.6
+CUST9793,48,Male,Cassandraview,PROD529,Electronics,394.2,9,2023-07-21,PayPal,5,3547.8
+CUST9387,57,Male,Lisamouth,PROD729,Home & Garden,83.89,3,2024-12-02,Credit Card,4,251.67
+CUST7439,72,Male,New Dustinfurt,PROD884,Clothing,273.82,10,2024-07-05,Credit Card,5,2738.2
+CUST6993,67,Female,North Alexville,PROD116,Home & Garden,204.69,5,2024-06-07,Digital Wallet,2,1023.45
+CUST8211,22,Male,New Vincenttown,PROD346,Sports,177.95,6,2024-08-23,Debit Card,1,1067.7
+CUST8908,47,Female,West Veronica,PROD311,Home & Garden,442.28,7,2023-12-08,PayPal,5,3095.96
+CUST5999,44,Female,Johnland,PROD168,Sports,333.35,6,2024-07-17,Debit Card,2,2000.1
+CUST4638,74,Male,Molinahaven,PROD203,Clothing,168.88,2,2023-01-11,Digital Wallet,5,337.76
+CUST1001,58,Female,Port Teresaland,PROD708,Books,150.32,2,2024-10-05,Credit Card,4,300.64
+CUST6269,54,Female,Jasonton,PROD134,Home & Garden,475.4,9,2024-02-08,Digital Wallet,2,4278.6
+CUST7267,30,Female,Hallborough,PROD557,Sports,311.05,2,2023-04-20,Digital Wallet,4,622.1
+CUST7775,63,Male,Timothymouth,PROD712,Books,240.05,1,2023-05-30,Digital Wallet,3,240.05
+CUST8935,62,Male,West Troy,PROD788,Clothing,282.86,3,2023-03-31,Digital Wallet,5,848.58
+CUST2596,42,Female,Cynthiaton,PROD820,Sports,377.31,3,2024-10-02,Credit Card,5,1131.93
+CUST9647,49,Female,West Misty,PROD993,Clothing,326.4,1,2025-01-04,PayPal,4,326.4
+CUST9996,43,Male,Scottborough,PROD149,Clothing,61.79,4,2025-03-16,Credit Card,5,247.16
+CUST8174,33,Female,Castroton,PROD350,Electronics,176.27,2,2024-11-11,Digital Wallet,1,352.54
+CUST6770,27,Female,Jenniferborough,PROD858,Books,123.97,8,2023-06-04,Digital Wallet,5,991.76
+CUST6170,59,Female,Paulville,PROD145,Electronics,322.92,4,2025-02-28,Credit Card,2,1291.68
+CUST5096,62,Female,Popeborough,PROD511,Clothing,459.71,2,2024-05-15,Debit Card,3,919.42
+CUST2690,18,Female,Kristenbury,PROD549,Sports,125.69,1,2025-04-02,Debit Card,4,125.69
+CUST8395,75,Female,West Gary,PROD339,Home & Garden,24.74,10,2024-03-01,Debit Card,2,247.4
+CUST8372,66,Male,Deckerstad,PROD652,Electronics,443.4,7,2023-10-25,Digital Wallet,2,3103.8
+CUST6114,73,Male,New Jennifer,PROD322,Home & Garden,193.78,8,2024-05-24,Credit Card,2,1550.24
+CUST5572,67,Male,Smithton,PROD872,Electronics,399.12,9,2023-02-16,Credit Card,3,3592.08
+CUST8464,74,Female,Jenniferfurt,PROD984,Books,61.12,10,2024-11-10,Debit Card,4,611.2
+CUST6538,24,Male,Lake Karaburgh,PROD894,Home & Garden,132.01,10,2024-10-21,Debit Card,4,1320.1
+CUST4644,67,Female,Blakestad,PROD157,Electronics,363.37,5,2023-08-01,Credit Card,3,1816.85
+CUST2006,45,Female,Deanview,PROD243,Clothing,17.23,1,2023-10-08,Digital Wallet,1,17.23
+CUST8367,32,Male,Stevenmouth,PROD615,Sports,260.85,6,2025-01-21,Debit Card,2,1565.1
+CUST5712,29,Male,South Austin,PROD396,Clothing,386.39,4,2023-01-13,PayPal,4,1545.56
+CUST2941,69,Female,Meyersville,PROD339,Books,259.58,10,2024-07-05,PayPal,3,2595.8
+CUST6996,79,Male,Christopherburgh,PROD935,Books,256.82,2,2023-09-03,Credit Card,3,513.64
+CUST4272,62,Male,Richardsonport,PROD849,Electronics,245.97,1,2023-05-29,Digital Wallet,2,245.97
+CUST7916,51,Female,Lake Lindamouth,PROD689,Clothing,151.73,4,2023-12-25,PayPal,3,606.92
+CUST6413,47,Female,West Georgefort,PROD426,Home & Garden,327.51,8,2023-03-24,Debit Card,5,2620.08
+CUST5834,21,Male,East Justin,PROD691,Electronics,163.55,2,2023-06-09,Digital Wallet,2,327.1
+CUST1078,53,Female,South Roberta,PROD712,Electronics,45.76,8,2024-09-29,Credit Card,4,366.08
+CUST4063,33,Male,Sandrafurt,PROD891,Clothing,52.5,1,2023-12-24,Debit Card,2,52.5
+CUST8845,76,Male,Cindystad,PROD788,Sports,485.96,6,2025-04-08,Digital Wallet,1,2915.76
+CUST4550,72,Female,Ericborough,PROD938,Books,387.79,9,2023-06-15,Credit Card,2,3490.11
+CUST4653,25,Female,West Miguel,PROD428,Home & Garden,268.94,7,2024-12-16,Digital Wallet,2,1882.58
+CUST3991,47,Male,Robertville,PROD342,Books,315.33,6,2025-03-19,PayPal,1,1891.98
+CUST5189,26,Female,Hardytown,PROD409,Electronics,109.34,1,2024-06-15,PayPal,2,109.34
+CUST5906,69,Male,Port Ryan,PROD997,Sports,316.61,10,2023-08-25,Credit Card,3,3166.1
+CUST6008,47,Female,Port Laurenmouth,PROD246,Electronics,110.52,5,2025-01-06,PayPal,4,552.6
+CUST1993,60,Female,Gregoryville,PROD776,Sports,344.28,9,2023-11-02,Credit Card,4,3098.52
+CUST4953,51,Male,Lake Ianmouth,PROD633,Clothing,418.65,1,2025-04-04,PayPal,5,418.65
+CUST6984,53,Female,Andrewtown,PROD326,Books,106.76,2,2023-11-12,Digital Wallet,4,213.52
+CUST8577,56,Male,North Emily,PROD523,Electronics,415.23,5,2024-01-02,Digital Wallet,4,2076.15
+CUST7654,38,Female,West Margaretberg,PROD407,Sports,439.93,2,2025-03-03,Credit Card,1,879.86
+CUST8520,78,Male,Anneville,PROD381,Sports,371.98,4,2023-08-02,Debit Card,2,1487.92
+CUST6354,66,Male,Delacruzburgh,PROD162,Electronics,220.44,9,2023-08-30,Digital Wallet,2,1983.96
+CUST1357,75,Female,Medinaville,PROD670,Books,409.29,2,2024-04-17,Digital Wallet,3,818.58
+CUST6368,46,Male,East Micheal,PROD705,Clothing,40.7,2,2024-04-11,Credit Card,2,81.4
+CUST3065,57,Female,Maynardbury,PROD852,Clothing,344.59,4,2024-03-05,Credit Card,1,1378.36
+CUST8381,70,Male,East Rhondaland,PROD279,Home & Garden,16.76,9,2025-04-06,Debit Card,3,150.84
+CUST5347,64,Male,Whiteport,PROD741,Home & Garden,359.85,7,2023-04-18,Credit Card,3,2518.95
+CUST7758,75,Male,Lake Susanshire,PROD795,Home & Garden,23.75,4,2024-07-11,Debit Card,5,95.0
+CUST7995,50,Female,Petersonchester,PROD537,Books,41.26,4,2024-03-24,Credit Card,2,165.04
+CUST6028,45,Female,Jameston,PROD669,Home & Garden,93.11,9,2025-04-02,Digital Wallet,1,837.99
+CUST4326,71,Male,Jacobmouth,PROD607,Home & Garden,129.69,4,2025-01-02,Credit Card,4,518.76
+CUST8305,76,Female,East Micheletown,PROD148,Books,39.87,10,2023-02-24,PayPal,1,398.7
+CUST5253,53,Female,Whitneyport,PROD452,Home & Garden,411.7,3,2024-05-24,Digital Wallet,1,1235.1
+CUST2870,46,Male,Johnsonbury,PROD758,Clothing,455.94,9,2023-07-17,PayPal,1,4103.46
+CUST1178,75,Male,North Thomasmouth,PROD787,Electronics,206.78,9,2023-03-22,PayPal,3,1861.02
+CUST3367,28,Male,Lake Brandon,PROD490,Clothing,228.31,7,2024-04-23,Credit Card,5,1598.17
+CUST2325,65,Female,Hernandezshire,PROD904,Clothing,205.2,2,2023-03-11,Credit Card,3,410.4
+CUST7259,73,Male,North Suzanne,PROD637,Sports,161.62,10,2023-12-22,PayPal,1,1616.2
+CUST5117,48,Male,Thomasmouth,PROD426,Electronics,197.8,6,2024-09-23,Digital Wallet,4,1186.8
+CUST1236,46,Female,Elijahfurt,PROD813,Clothing,63.56,8,2023-07-12,Credit Card,3,508.48
+CUST7870,34,Male,West Christopherfurt,PROD526,Electronics,7.92,7,2024-06-19,Digital Wallet,1,55.44
+CUST6511,66,Female,New Patriciaton,PROD518,Clothing,361.54,2,2024-06-16,Credit Card,4,723.08
+CUST2988,33,Male,Markview,PROD252,Books,36.3,3,2024-06-25,PayPal,2,108.9
+CUST6897,71,Female,East Benjaminland,PROD407,Books,374.25,3,2023-11-20,PayPal,2,1122.75
+CUST4784,58,Male,Jacobtown,PROD485,Home & Garden,27.53,9,2024-08-02,Credit Card,1,247.77
+CUST3801,35,Male,North Anthony,PROD288,Books,424.88,7,2025-01-13,PayPal,5,2974.16
+CUST7951,67,Male,Port Krystal,PROD872,Electronics,182.06,9,2024-12-26,Credit Card,5,1638.54
+CUST9341,67,Female,Allisonburgh,PROD650,Sports,253.9,6,2025-04-01,Debit Card,1,1523.4
+CUST2373,51,Female,South Brett,PROD584,Home & Garden,148.47,3,2024-02-05,Credit Card,5,445.41
+CUST3418,49,Male,Port Sonyaborough,PROD346,Clothing,344.51,9,2024-09-18,Digital Wallet,5,3100.59
+CUST3383,58,Male,Port Cheyenne,PROD969,Books,305.25,10,2023-12-16,PayPal,5,3052.5
+CUST7875,33,Female,West Peterside,PROD330,Home & Garden,144.35,8,2024-12-06,Credit Card,3,1154.8
+CUST9425,35,Male,West Brandi,PROD407,Books,463.71,6,2024-02-12,Credit Card,4,2782.26
+CUST8824,46,Male,Cassandramouth,PROD978,Home & Garden,193.8,6,2023-05-01,Credit Card,1,1162.8
+CUST8318,22,Male,North Emily,PROD824,Electronics,411.95,9,2025-04-15,Digital Wallet,2,3707.55
+CUST4559,63,Female,West Andrew,PROD247,Electronics,20.26,6,2023-09-20,PayPal,5,121.56
+CUST6923,36,Female,North Dianeport,PROD925,Clothing,82.38,6,2023-04-13,Credit Card,1,494.28
+CUST4346,33,Male,Rebeccaberg,PROD574,Home & Garden,113.83,7,2024-12-12,PayPal,3,796.81
+CUST8740,35,Female,Leland,PROD159,Sports,374.64,7,2023-12-22,Digital Wallet,3,2622.48
+CUST6102,39,Male,West Amandatown,PROD675,Electronics,399.4,6,2024-04-12,Debit Card,5,2396.4
+CUST4942,38,Female,Brandonshire,PROD522,Clothing,425.49,10,2024-04-17,Digital Wallet,4,4254.9
+CUST3627,75,Male,Simmonshaven,PROD526,Home & Garden,151.01,4,2024-12-28,Debit Card,2,604.04
+CUST2545,52,Male,East Oscarhaven,PROD670,Clothing,318.85,10,2024-08-12,Credit Card,4,3188.5
+CUST6522,23,Female,Andersonfurt,PROD642,Electronics,152.54,9,2024-06-18,PayPal,2,1372.86
+CUST2717,26,Male,Austinport,PROD237,Clothing,444.05,4,2024-01-11,Debit Card,2,1776.2
+CUST8855,27,Male,New Aaron,PROD497,Home & Garden,482.86,7,2024-11-14,PayPal,1,3380.02
+CUST7592,32,Female,Jesseburgh,PROD348,Books,434.23,9,2024-01-15,Credit Card,2,3908.07
+CUST5719,42,Female,Juarezland,PROD361,Sports,325.73,5,2023-06-26,PayPal,2,1628.65
+CUST4037,62,Male,Johnbury,PROD308,Electronics,478.91,6,2024-04-17,Debit Card,3,2873.46
+CUST5285,27,Female,Riversmouth,PROD438,Home & Garden,10.52,8,2023-03-26,Credit Card,4,84.16
+CUST9876,63,Female,Port Sheri,PROD762,Home & Garden,438.01,8,2024-12-09,Credit Card,4,3504.08
+CUST2320,31,Female,Smithmouth,PROD180,Clothing,74.98,7,2024-05-21,Debit Card,3,524.86
+CUST8125,22,Male,West Micheal,PROD560,Electronics,25.68,1,2023-04-29,PayPal,5,25.68
+CUST8333,44,Female,Stanleyfurt,PROD967,Books,288.5,1,2023-05-28,Digital Wallet,1,288.5
+CUST6362,44,Male,Darrellton,PROD479,Books,200.07,5,2024-03-13,PayPal,4,1000.35
+CUST5715,39,Female,West Kathyhaven,PROD194,Sports,276.03,10,2024-03-09,Debit Card,5,2760.3
+CUST3515,52,Male,West Mary,PROD648,Sports,47.14,1,2024-03-18,PayPal,3,47.14
+CUST3965,47,Male,North Samuel,PROD841,Clothing,108.98,9,2025-02-11,Digital Wallet,1,980.82
+CUST3768,44,Female,Markshire,PROD949,Electronics,372.01,3,2024-03-25,PayPal,3,1116.03
+CUST2468,21,Male,Colemanberg,PROD295,Books,364.34,5,2023-10-07,Credit Card,5,1821.7
+CUST8510,31,Male,South Wendy,PROD152,Electronics,109.81,1,2023-05-13,PayPal,4,109.81
+CUST8170,71,Female,East Davidville,PROD374,Clothing,453.29,5,2024-07-15,Credit Card,4,2266.45
+CUST1731,44,Female,Marshallborough,PROD486,Electronics,426.47,4,2024-12-20,Digital Wallet,2,1705.88
+CUST9446,42,Male,Wardbury,PROD789,Electronics,75.52,4,2025-01-17,PayPal,3,302.08
+CUST4092,75,Female,Johnsonbury,PROD719,Electronics,96.08,6,2025-02-03,Credit Card,2,576.48
+CUST1949,67,Female,Nathanshire,PROD717,Clothing,310.36,1,2024-07-22,Digital Wallet,3,310.36
+CUST5649,55,Male,Lake Danielview,PROD140,Clothing,130.11,5,2023-01-11,Credit Card,4,650.55
+CUST4205,78,Male,Emilyfort,PROD994,Clothing,61.74,9,2024-01-23,Credit Card,3,555.66
+CUST3303,62,Male,New Jennifer,PROD174,Books,337.13,9,2024-12-15,Credit Card,3,3034.17
+CUST9641,19,Female,Jakeberg,PROD292,Home & Garden,285.81,9,2024-12-27,PayPal,1,2572.29
+CUST6925,72,Male,Richmondtown,PROD923,Electronics,31.92,10,2024-05-12,Credit Card,5,319.2
+CUST3469,74,Female,Michaelside,PROD879,Sports,376.77,10,2024-06-15,Debit Card,1,3767.7
+CUST7092,66,Male,North Eric,PROD701,Sports,495.09,3,2023-04-19,Digital Wallet,1,1485.27
+CUST4359,54,Male,Jackland,PROD841,Home & Garden,276.68,2,2024-11-13,Digital Wallet,2,553.36
+CUST9322,42,Male,Johnport,PROD787,Electronics,324.11,1,2023-07-15,PayPal,3,324.11
+CUST4547,48,Male,Valeriechester,PROD672,Electronics,41.21,8,2024-06-11,PayPal,5,329.68
+CUST7587,18,Female,South Angelastad,PROD322,Electronics,337.48,6,2024-07-30,PayPal,4,2024.88
+CUST8308,78,Female,Villamouth,PROD590,Clothing,129.09,3,2025-04-18,Debit Card,3,387.27
+CUST7821,40,Female,South Richard,PROD313,Books,102.72,3,2024-11-13,Digital Wallet,3,308.16
+CUST6982,37,Female,North Loriborough,PROD990,Clothing,292.39,5,2024-04-19,Digital Wallet,1,1461.95
+CUST5346,66,Female,Lake Joseph,PROD440,Electronics,476.01,6,2024-07-30,PayPal,5,2856.06
+CUST3366,42,Male,Smithstad,PROD410,Home & Garden,181.78,10,2024-10-23,PayPal,2,1817.8
+CUST1091,72,Male,Michaelburgh,PROD115,Electronics,337.29,4,2024-06-14,Credit Card,4,1349.16
+CUST3791,75,Female,Montoyaport,PROD316,Electronics,121.09,4,2025-04-17,PayPal,4,484.36
+CUST6131,79,Female,Jonathanhaven,PROD294,Books,146.14,5,2024-01-03,Digital Wallet,1,730.7
+CUST5801,71,Male,Port Alexandra,PROD859,Electronics,39.56,5,2023-04-13,Credit Card,4,197.8
+CUST5216,44,Female,North Wesley,PROD220,Clothing,100.78,2,2024-09-07,Debit Card,3,201.56
+CUST9473,52,Female,New Jose,PROD864,Sports,245.5,10,2024-02-21,Debit Card,3,2455.0
+CUST9155,65,Male,Aaronmouth,PROD872,Books,167.53,7,2025-01-20,Digital Wallet,1,1172.71
+CUST9650,65,Female,Port Dawn,PROD590,Books,331.41,10,2024-06-26,Credit Card,2,3314.1
+CUST8975,52,Female,Lisaport,PROD348,Books,348.26,4,2024-03-21,PayPal,3,1393.04
+CUST3877,69,Female,South Dylan,PROD812,Electronics,80.44,2,2023-04-25,PayPal,2,160.88
+CUST5081,56,Female,Johnsonside,PROD718,Books,285.6,6,2023-10-24,Credit Card,2,1713.6
+CUST2064,75,Female,Tiffanyborough,PROD820,Books,404.81,8,2024-12-01,Credit Card,4,3238.48
+CUST9662,32,Female,Buchananton,PROD309,Clothing,479.54,3,2024-02-10,Debit Card,3,1438.62
+CUST4984,49,Male,South Elizabethbury,PROD506,Home & Garden,88.48,8,2024-07-20,PayPal,4,707.84
+CUST8149,32,Female,New Brian,PROD345,Clothing,160.04,10,2023-10-09,Digital Wallet,1,1600.4
+CUST4509,35,Female,West Samuelfort,PROD665,Clothing,393.9,2,2024-09-19,PayPal,3,787.8
+CUST4221,45,Female,North Jessicaland,PROD429,Home & Garden,357.54,10,2024-10-03,Debit Card,1,3575.4
+CUST5000,49,Female,Jameston,PROD894,Home & Garden,322.22,5,2023-06-24,Credit Card,4,1611.1
+CUST4811,19,Male,East Tracy,PROD389,Books,141.96,1,2023-06-04,PayPal,4,141.96
+CUST8264,42,Female,South Jennifer,PROD489,Clothing,182.95,10,2023-05-03,Credit Card,4,1829.5
+CUST9226,39,Male,West Matthewton,PROD577,Electronics,341.39,7,2024-01-29,PayPal,3,2389.73
+CUST9949,60,Female,North Julieborough,PROD646,Sports,169.12,2,2024-04-19,Digital Wallet,4,338.24
+CUST2840,61,Male,Timville,PROD764,Sports,242.58,1,2023-03-21,Digital Wallet,1,242.58
+CUST3223,69,Female,South Parker,PROD467,Sports,225.45,6,2024-03-09,PayPal,2,1352.7
+CUST4579,43,Female,Ramosport,PROD415,Clothing,388.51,6,2023-06-09,PayPal,3,2331.06
+CUST1649,64,Male,Amyview,PROD367,Home & Garden,246.05,7,2024-05-30,Credit Card,5,1722.35
+CUST5145,28,Male,Wilkersonport,PROD468,Books,58.87,7,2023-06-11,Credit Card,1,412.09
+CUST1515,71,Female,Ballton,PROD625,Books,324.55,2,2023-03-20,Debit Card,3,649.1
+CUST8261,47,Female,North Barbara,PROD609,Sports,45.58,4,2023-02-05,Debit Card,4,182.32
+CUST7193,76,Female,New Catherinehaven,PROD577,Books,143.9,10,2024-07-11,PayPal,5,1439.0
+CUST7886,26,Female,Saraside,PROD200,Electronics,414.09,1,2023-07-10,Digital Wallet,5,414.09
+CUST1863,80,Female,Port Daniel,PROD922,Electronics,446.19,7,2023-10-10,Debit Card,3,3123.33
+CUST7547,57,Male,West Meganmouth,PROD839,Home & Garden,102.23,1,2024-01-18,Debit Card,4,102.23
+CUST3632,52,Female,Ashleeshire,PROD580,Books,368.1,5,2025-03-05,Digital Wallet,1,1840.5
+CUST5514,19,Female,Onealmouth,PROD879,Clothing,315.18,9,2023-01-27,Credit Card,1,2836.62
+CUST3544,76,Female,New Thomasstad,PROD959,Books,365.08,1,2024-09-23,Credit Card,2,365.08
+CUST7825,43,Male,Burkeside,PROD427,Clothing,446.59,6,2023-06-25,Credit Card,4,2679.54
+CUST2139,55,Female,Brockton,PROD308,Sports,425.55,9,2023-10-31,PayPal,2,3829.95
+CUST4344,54,Female,Lake Sarah,PROD479,Clothing,317.66,10,2023-11-16,PayPal,1,3176.6
+CUST2433,60,Female,Sarafurt,PROD420,Sports,407.26,3,2024-04-16,Credit Card,4,1221.78
+CUST5262,19,Male,West Sabrina,PROD523,Electronics,291.56,6,2024-12-25,Digital Wallet,2,1749.36
+CUST6026,23,Male,Port Troyfurt,PROD146,Books,385.75,9,2024-07-14,Credit Card,3,3471.75
+CUST7406,59,Female,Keithstad,PROD676,Home & Garden,110.32,4,2024-06-22,Credit Card,3,441.28
+CUST1385,45,Female,North Savannahchester,PROD984,Books,23.14,3,2024-02-07,PayPal,5,69.42
+CUST1670,26,Male,Wadeborough,PROD326,Sports,134.01,1,2024-05-31,Digital Wallet,1,134.01
+CUST9181,73,Male,New Chadville,PROD859,Books,447.52,7,2023-03-12,Debit Card,1,3132.64
