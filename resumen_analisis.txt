@@ -1,0 +1,17 @@
+RESUMEN DE ANÁLISIS EXPLORATORIO
+==================================================
+Filas: 1000, Columnas: 12
+
+                Tipo_Dato  Valores_Nulos  Porcentaje_Nulos
+CustomerID         object              0               0.0
+Age                 int64              0               0.0
+Gender             object              0               0.0
+Location           object              0               0.0
+ProductID          object              0               0.0
+ProductCategory    object              0               0.0
+Price             float64              0               0.0
+Quantity            int64              0               0.0
+OrderDate          object              0               0.0
+PaymentMethod      object              0               0.0
+ReviewScore         int64              0               0.0
+TotalAmount       float64              0               0.0
